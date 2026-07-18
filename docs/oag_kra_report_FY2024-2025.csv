@@ -1,0 +1,44 @@
+Vote_Code,Entity_Name,Levy_Type,Dimension,Transaction_Category,Project_or_Specific_Issue,Metric,Value_Ksh,Legal_Compliance,Risk_Factor,Page_Ref,Finding_Summary
+N/A,KRA,Fuel Levy (RMLF),Budget Performance,Remittance,Road Maintenance Levy Commission,Target_Budget,2395588000,Not stated,CRITICAL,70,KRA set an initial approved budget of 2.39B for Road Maintenance Levy commissions.
+N/A,KRA,Fuel Levy (RMLF),Budget Performance,Remittance,Road Maintenance Levy Commission,Actual_Collected,2350609000,Not stated,CRITICAL,70,Actual comparable collected commission for the Road Maintenance Levy was 2.35B.
+N/A,KRA,Fuel Levy (RMLF),Budget Performance,Remittance,Road Maintenance Levy Commission,Variance,44978000,Not stated,CRITICAL,70,KRA recorded a performance difference (shortfall) of 44.9M against the budget for RMLF commissions.
+N/A,KRA,Fuel Levy (RMLF),Revenue Collection,Remittance,Road Maintenance Levy Commission Income,Actual_Collected,2393240000,Not stated,CRITICAL,80,RMLF commission income rose significantly due to the review of the RML rate from Kshs 18 to Kshs 25 per litre of fuel.
+N/A,KRA,Affordable Housing,Budget Performance,Remittance,National Housing Development Levy Commission,Target_Budget,357106000,Not stated,HIGH,70,KRA set an approved budget of 357.1M for Housing Levy commissions.
+N/A,KRA,Affordable Housing,Budget Performance,Remittance,National Housing Development Levy Commission,Actual_Collected,425038000,Not stated,HIGH,70,Actual comparable collected commission for the Housing Levy outperformed targets at 425M.
+N/A,KRA,Affordable Housing,Budget Performance,Remittance,National Housing Development Levy Commission,Variance,70932000,Not stated,HIGH,70,Housing Levy commission collections exceeded the comparative performance baseline by 70.9M.
+N/A,KRA,Affordable Housing,Revenue Collection,Remittance,National Housing Development Levy Commission Income,Actual_Collected,397219000,Not stated,HIGH,80,Housing Levy commission recognized as income was 397.2M; a drop attributed to the reduction of the commission rate from 2% to 0.5%.
+N/A,KRA,Multi-Levy,Revenue Collection,Remittance,Exchequer Revenue Collection,Target_Revenue,2347000000000,Not stated,CRITICAL,37,KRA was targeted to remit 2.347 Trillion to the Exchequer for national distribution.
+N/A,KRA,Multi-Levy,Revenue Collection,Remittance,Exchequer Revenue Collection,Actual_Collected,2323000000000,Not stated,CRITICAL,37,KRA actually remitted 2.323 Trillion to the Exchequer representing a 99% performance rate.
+N/A,KRA,Multi-Levy,Revenue Collection,Remittance,Exchequer Revenue Collection,Variance,24000000000,Not stated,CRITICAL,37,KRA missed its overarching Exchequer remittance target by 24 Billion.
+N/A,KRA,Multi-Levy,Revenue Collection,Remittance,Agency Revenue Collection,Target_Revenue,207800000000,Not stated,CRITICAL,37,The target for Agency Revenue (funds collected on behalf of other entities) was 207.8 Billion.
+N/A,KRA,Multi-Levy,Revenue Collection,Remittance,Agency Revenue Collection,Actual_Collected,248300000000,Not stated,CRITICAL,37,KRA significantly overperformed on Agency Revenue collections netting 248.3 Billion.
+N/A,KRA,Multi-Levy,Revenue Collection,Remittance,Agency Revenue Collection,Variance,40500000000,Not stated,CRITICAL,37,KRA exceeded its target for Agency Revenues by 40.5 Billion.
+N/A,KRA,Multi-Levy,Recommendation Follow-Up,Audit Finding,Loss of Excise Stamps - Total,Loss,120278879,Public Audit Act 2015,CRITICAL,58,The Auditor-General flagged 23.7 million lost excise stamps at the Times Tower vault leading to a potential revenue loss of 120.2M.
+N/A,KRA,Multi-Levy,Recommendation Follow-Up,Audit Finding,Loss of Excise Stamps - Water,Loss,95826500,Public Audit Act 2015,CRITICAL,58,The majority of the lost excise stamps were for water resulting in an estimated 95.8M loss.
+N/A,KRA,Multi-Levy,Recommendation Follow-Up,Audit Finding,Loss of Excise Stamps - Alcohol Spirits,Loss,11512244,Public Audit Act 2015,CRITICAL,58,Lost stamps for alcohol spirits resulted in a potential revenue loss of 11.5M.
+N/A,KRA,Multi-Levy,Recommendation Follow-Up,Audit Finding,Loss of Excise Stamps - Alcohol Wine (2011013),Loss,8989740,Public Audit Act 2015,CRITICAL,58,Lost stamps for alcohol wine (code 2011013) resulted in an 8.9M revenue loss.
+N/A,KRA,Multi-Levy,Recommendation Follow-Up,Audit Finding,Loss of Excise Stamps - Alcohol Wine (2011014),Loss,2247435,Public Audit Act 2015,CRITICAL,58,Additional lost stamps for alcohol wine (code 2011014) resulted in a 2.2M loss.
+N/A,KRA,Multi-Levy,Recommendation Follow-Up,Audit Finding,Loss of Excise Stamps - Soft Drinks,Loss,1702960,Public Audit Act 2015,CRITICAL,58,Lost stamps for soft drinks contributed 1.7M to the total potential revenue loss.
+N/A,KRA,Multi-Levy,Recommendation Follow-Up,Audit Finding,Inaccuracies in Agency Grant Statements,Unreconciled_Balance,2391497000,Public Audit Act 2015,CRITICAL,109,The Auditor-General reported a 2.39 Billion unexplained variance between agency income and actual Treasury funding received.
+N/A,KRA,Multi-Levy,Opacity,Audit Finding,Unsupported Administrative Expenses,Audited_Expenditure,403920000,Article 229 of the Constitution,MEDIUM,112,KRA failed to provide supporting details for insurance premiums amounting to 403.9M.
+N/A,KRA,Roads Infrastructure,Project Absorption,Commitment,Horn of Africa Gateway Development Project,Allocated_Fund,337469000,Not stated,MEDIUM,121,The 2024/2025 budget allocation for the Horn of Africa Gateway project was 337.4M.
+N/A,KRA,Roads Infrastructure,Project Absorption,Project Spend,Horn of Africa Gateway Development Project,Actual_Spend,336529000,Not stated,MEDIUM,121,KRA successfully absorbed 336.5M of the project funds during the financial year.
+N/A,KRA,Roads Infrastructure,Project Absorption,Project Spend,Horn of Africa Gateway Development Project,Variance,940000,Not stated,MEDIUM,121,A minor unabsorbed variance of 940k remained on the Horn of Africa Gateway project.
+N/A,KRA,Roads Infrastructure,Project Absorption,Commitment,Eastern Africa Regional Transport Trade & Dev Project,Allocated_Fund,482700000,Not stated,MEDIUM,121,The budget for the Eastern Africa Regional Transport project was 482.7M.
+N/A,KRA,Roads Infrastructure,Project Absorption,Project Spend,Eastern Africa Regional Transport Trade & Dev Project,Actual_Spend,482700000,Not stated,MEDIUM,121,KRA completely absorbed the 482.7M budget for the Eastern Africa Regional Transport project with zero unspent balance.
+---INSIGHTS---
+HEADLINE: KRA missed its overall Exchequer remittance target by Kshs 24 billion while sitting on a critical Kshs 2.39 billion unreconciled agency grant balance and losing over Kshs 120 million to unaccounted excise stamps right from the Times Tower vault.
+COLLECTION & TARGETS:
+KRA missed its primary mandate target for Exchequer collections by a massive Kshs 24 billion, bringing in Kshs 2.32 trillion against a 2.34 trillion target.
+Conversely, Agency Revenues (funds KRA collects on behalf of other state organs) overperformed by Kshs 40.5 billion.
+RMLF commission revenues shot up dramatically after the state hiked the Road Maintenance Levy from Kshs 18 to Kshs 25 per litre.
+The Housing Levy commission income dropped from previous years solely because KRA's collection cut was slashed from 2% down to 0.5%, though overall collections against the target outperformed expectations.
+RISK & LOSSES:
+The Auditor-General exposed a gaping control failure involving 23.7 million missing excise stamps at the KRA vault, resulting in a potential direct revenue loss of Kshs 120.2 million. The bulk of this loss (Kshs 95.8 million) stemmed from unaccounted water stamps.
+A critical Kshs 2.39 billion variance exists in the agency grant funding reporting, directly contradicting National Treasury disbursed figures.
+ABSORPTION:
+KRA demonstrated excellent capital absorption on donor-funded transport infrastructure projects; it fully absorbed the Kshs 482.7 million for the Eastern Africa Regional Transport Project and left an insignificant Kshs 940,000 unabsorbed on the Horn of Africa Gateway Project.
+RECOMMENDATION FOLLOW-UP:
+Audit findings continue to highlight opacity in KRA's administrative spending, specifically identifying Kshs 403.9 million in insurance premium expenses that completely lack supporting documentation.
+WHAT THIS MEANS FOR CITIZENS:
+When KRA misses the Exchequer target by Kshs 24 billion while losing millions of excise stamps from its own high-security vaults, it directly translates to less money for public services and heavier tax burdens on ordinary citizens to make up the difference. However, the data also reveals that Kenyans are aggressively funding agency priorities, as evidenced by massive spikes in Road Maintenance and Housing Levy collections driven by recent controversial rate hikes.

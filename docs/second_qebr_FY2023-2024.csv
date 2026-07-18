@@ -1,0 +1,38 @@
+
+Vote_Code,Entity_Name,Levy_Type,Dimension,Transaction_Category,Project_or_Specific_Issue,Metric,Value_Ksh,Legal_Compliance,Risk_Factor,Page_Ref,Finding_Summary
+N/A,National Treasury,Railway Levy,Budget Performance,Remittance,Railway Development Levy Collection,Target_Revenue,17647000000,Not stated,MEDIUM,13,"Treasury targeted KSh 17.6 billion for the Railway Development Levy for the half year."
+N/A,National Treasury,Railway Levy,Revenue Collection,Remittance,Railway Development Levy Collection,Actual_Collected,16521000000,Not stated,MEDIUM,13,"KSh 16.5 billion was actually collected under the Railway Development Levy."
+N/A,National Treasury,Railway Levy,Budget Performance,Remittance,Railway Development Levy Collection,Variance,-1126000000,Not stated,HIGH,13,"A shortfall of KSh 1.1 billion was recorded in Railway Development Levy collections against the target."
+1091,State Department for Roads,Roads Infrastructure,Budget Performance,Project Spend,Roads Development Expenditure,Target_Budget,74922000000,Not stated,HIGH,27,"The budget target for roads development was set at KSh 74.9 billion for the period."
+1091,State Department for Roads,Roads Infrastructure,Project Absorption,Project Spend,Roads Development Expenditure,Actual_Spend,23540000000,Not stated,HIGH,27,"Only KSh 23.5 billion was spent on roads development, reflecting severe under-absorption."
+1091,State Department for Roads,Roads Infrastructure,Project Absorption,Project Spend,Roads Development Expenditure,Variance,-51382000000,Not stated,CRITICAL,27,"A massive KSh 51.3 billion for roads development remained unabsorbed during the review period."
+1091,State Department for Roads,Roads Infrastructure,Budget Performance,Project Spend,Roads Recurrent Expenditure,Target_Budget,41643000000,Not stated,MEDIUM,27,"The recurrent budget target for road maintenance and operations was KSh 41.6 billion."
+1091,State Department for Roads,Roads Infrastructure,Project Absorption,Project Spend,Roads Recurrent Expenditure,Actual_Spend,35016000000,Not stated,MEDIUM,27,"KSh 35 billion was absorbed for recurrent road expenditures."
+1091,State Department for Roads,Roads Infrastructure,Project Absorption,Project Spend,Roads Recurrent Expenditure,Variance,-6627000000,Not stated,HIGH,27,"A shortfall of KSh 6.6 billion occurred in the absorption of roads recurrent budgets."
+1092,State Department for Transport,Roads Infrastructure,Budget Performance,Project Spend,Transport Development Expenditure,Target_Budget,21902000000,Not stated,MEDIUM,27,"Transport development was allocated KSh 21.9 billion as a half-year target."
+1092,State Department for Transport,Roads Infrastructure,Project Absorption,Project Spend,Transport Development Expenditure,Actual_Spend,18821000000,Not stated,MEDIUM,27,"KSh 18.8 billion was absorbed for transport development projects."
+1092,State Department for Transport,Roads Infrastructure,Project Absorption,Project Spend,Transport Development Expenditure,Variance,-3081000000,Not stated,HIGH,27,"Transport development projects experienced an under-absorption of KSh 3 billion."
+1092,State Department for Transport,Roads Infrastructure,Budget Performance,Project Spend,Transport Recurrent Expenditure,Target_Budget,7178000000,Not stated,LOW,27,"The recurrent budget target for transport operations was KSh 7.1 billion."
+1092,State Department for Transport,Roads Infrastructure,Project Absorption,Project Spend,Transport Recurrent Expenditure,Actual_Spend,8187000000,Not stated,LOW,27,"KSh 8.1 billion was spent on transport recurrent operations, overshooting the target."
+1092,State Department for Transport,Roads Infrastructure,Project Absorption,Project Spend,Transport Recurrent Expenditure,Variance,1009000000,Not stated,MEDIUM,27,"Transport recurrent spending exceeded its target by KSh 1 billion."
+1094,State Department for Housing & Urban Development,Affordable Housing,Budget Performance,Project Spend,Housing Development Expenditure,Target_Budget,39597000000,Not stated,LOW,27,"The budget target for housing development was KSh 39.5 billion."
+1094,State Department for Housing & Urban Development,Affordable Housing,Project Absorption,Project Spend,Housing Development Expenditure,Actual_Spend,38319000000,Not stated,LOW,27,"KSh 38.3 billion was successfully spent on housing and urban development projects."
+1094,State Department for Housing & Urban Development,Affordable Housing,Project Absorption,Project Spend,Housing Development Expenditure,Variance,-1278000000,Not stated,MEDIUM,27,"A minor under-absorption of KSh 1.2 billion was noted in the housing development budget."
+N/A,State Corporations,Multi-Levy,Pending Bills,Payables,Contractor and Supplier Pending Bills,Payable,448400000000,Not stated,CRITICAL,28,"State Corporations hold KSh 448.4 billion in pending bills, primarily owed to contractors and projects."
+N/A,Ministries and State Departments,Multi-Levy,Pending Bills,Payables,Historical Pending Bills,Payable,91500000000,Not stated,HIGH,28,"Ministries and State Departments hold KSh 91.5 billion in historical pending bills."
+---INSIGHTS---
+HEADLINE: Massive pending bills and severe under-absorption in roads development threaten Kenya's infrastructure agenda and contractors' survival.
+COLLECTION & TARGETS:
+The Railway Development Levy missed its KSh 17.6 billion half-year target, generating KSh 16.5 billion (a variance of KSh -1.1 billion).
+Revenue transparency for the Road Maintenance Levy Fund (RMLF) is compromised, as its collections are aggregated alongside university revenues under general "Appropriation in Aid," preventing clear baseline tracking.
+RISK & LOSSES:
+State Corporations are sitting on a staggering KSh 448.4 billion in pending bills, largely trapping capital owed to private infrastructure contractors and suppliers.
+Ministries and State Departments account for an additional KSh 91.5 billion in unresolved historical pending bills.
+ABSORPTION:
+The State Department for Roads failed disastrously in execution, absorbing only KSh 23.5 billion of its KSh 74.9 billion development budget—leaving KSh 51.3 billion sitting idle while projects stall.
+The State Department for Transport also under-absorbed its development budget by KSh 3 billion.
+By contrast, the State Department for Housing demonstrated high efficiency, successfully absorbing KSh 38.3 billion out of its KSh 39.5 billion allocation for affordable housing projects.
+RECOMMENDATION FOLLOW-UP:
+No specific Auditor-General or PAC recommendations were outlined in this economic review, leaving the actual timeline and mechanism for the clearance of KSh 539.9 billion in total pending bills ambiguous, despite references to a recent Treasury circular.
+WHAT THIS MEANS FOR CITIZENS:
+With KSh 448 billion trapped in unpaid government bills to contractors and an astonishing KSh 51 billion in approved road budgets going unspent, Kenyan citizens are suffering a dual blow. Promised roads and transport infrastructure are stalling on the ground, while local businesses and contractors are starved of cash, leading to job losses and a choked domestic economy despite citizens actively paying railway and transport levies.

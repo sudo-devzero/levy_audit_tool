@@ -1,0 +1,20 @@
+Vote_Code,Entity_Name,Levy_Type,Dimension,Transaction_Category,Project_or_Specific_Issue,Metric,Value_Ksh,Legal_Compliance,Risk_Factor,Page_Ref
+1094,State Dept for Housing and Urban Development,Affordable Housing,Revenue Target,Development A.I.A,Housing Levy (1111007) - FY 24/25 Target,Target_Revenue,63220000000,PFM Act 2012,Budget Projection,38
+1094,State Dept for Housing and Urban Development,Affordable Housing,Revenue Target,Development A.I.A,Housing Levy (1111007) - FY 23/24 Revised,Revised_Target,63220000000,PFM Act 2012,Budget Baseline,38
+1094,State Dept for Housing and Urban Development,Affordable Housing,Revenue Target,Development A.I.A,Rent on Government Housing (1421003) - FY 24/25 Target,Target_Revenue,838800000,PFM Act 2012,Budget Projection,38
+1094,State Dept for Housing and Urban Development,Affordable Housing,Revenue Target,Recurrent A.I.A,Rent on Government Housing (1421003) - FY 24/25 Target,Target_Revenue,86000000,PFM Act 2012,Budget Projection,23
+1094,State Dept for Housing and Urban Development,Affordable Housing,Total Estimate,Total A.I.A,Total Dept Appropriations-in-Aid - FY 24/25 Target,Target_Revenue,64144800000,PFM Act 2012,Total Dept Funding,45
+1091,State Dept for Roads,Fuel Levy (RMLF),Revenue Target,Recurrent A.I.A,Road Maintenance Levy (1142010) - FY 24/25 Target,Target_Revenue,68336000000,PFM Act 2012,Budget Projection,22
+1091,State Dept for Roads,Fuel Levy (RMLF),Revenue Target,Recurrent A.I.A,Road Maintenance Levy (1142010) - FY 23/24 Revised,Revised_Target,66504211993,PFM Act 2012,Revenue Shortfall Risk,22
+1091,State Dept for Roads,Fuel Levy (RMLF),Revenue Actuals,Recurrent A.I.A,Road Maintenance Levy (1142010) - FY 22/23 Actuals,Actual_Collected,70119186341,PFM Act 2012,Historical Baseline,22
+1091,State Dept for Roads,Fuel Levy (RMLF),Revenue Target,Development A.I.A,Road Maintenance Levy Annuity Fund (1142010) - FY 24/25 Target,Target_Revenue,16187000000,PFM Act 2012,Budget Projection,38
+1091,State Dept for Roads,Fuel Levy (RMLF),Revenue Target,Development A.I.A,Road Maintenance Levy Annuity Fund - FY 23/24 Revised,Revised_Target,14300000000,PFM Act 2012,Budget Review,38
+1091,State Dept for Roads,Fuel Levy (RMLF),Revenue Actuals,Development A.I.A,Road Maintenance Levy Annuity Fund - FY 22/23 Actuals,Actual_Collected,14100000000,PFM Act 2012,Historical Baseline,38
+1140,State Dept for Petroleum,Petroleum Development Levy (PDL),Revenue Target,Recurrent A.I.A,Petroleum Development Levy (1142013) - FY 24/25 Target,Target_Revenue,27000000000,PFM Act 2012,Budget Projection,29
+1140,State Dept for Petroleum,Petroleum Development Levy (PDL),Revenue Target,Recurrent A.I.A,Petroleum Development Levy (1142013) - FY 23/24 Revised,Revised_Target,29385529184,PFM Act 2012,Budget Revision,29
+1140,State Dept for Petroleum,Petroleum Development Levy (PDL),Revenue Actuals,Recurrent A.I.A,Petroleum Development Levy (1142013) - FY 22/23 Actuals,Actual_Collected,20463131032,PFM Act 2012,Historical Baseline,29
+1140,State Dept for Petroleum,Petroleum Development Levy (PDL),Revenue Target,Development A.I.A,Petroleum Development Levy (1142013) - FY 24/25 Target,Target_Revenue,3304564284,PFM Act 2012,Budget Projection,41
+1140,State Dept for Petroleum,Petroleum Development Levy (PDL),Revenue Actuals,Development A.I.A,Petroleum Development Levy (1142013) - FY 22/23 Actuals,Actual_Collected,2326969011,PFM Act 2012,Historical Baseline,41
+1092,State Dept for Transport,Railway Development Levy (RDL),Revenue Target,Development A.I.A,Railway Development Levy (1156002) - FY 24/25 Target,Target_Revenue,25217000000,PFM Act 2012,Budget Projection,38
+1092,State Dept for Transport,Railway Development Levy (RDL),Revenue Target,Development A.I.A,Railway Development Levy (1156002) - FY 23/24 Revised,Revised_Target,37396000000,PFM Act 2012,Shortfall Indicator,38
+1071,The National Treasury,Railway Development Levy (RDL),Revenue Actuals,Development A.I.A,Railway Development Levy (1156002) - FY 22/23 Actuals,Actual_Collected,39899400353,PFM Act 2012,Historical Baseline,36

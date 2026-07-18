@@ -1,0 +1,57 @@
+
+Vote_Code,Entity_Name,Levy_Type,Dimension,Transaction_Category,Project_or_Specific_Issue,Metric,Value_Ksh,Legal_Compliance,Risk_Factor,Page_Ref,Finding_Summary
+N/A,National Treasury,Railway Levy,Revenue Collection,Remittance,Railway Development Levy,Target_Revenue,19204000000,Not stated,MEDIUM,21,"Target collection set for Railway Development Levy in H1 FY 2025/2026."
+N/A,National Treasury,Railway Levy,Revenue Collection,Remittance,Railway Development Levy,Actual_Collected,22937000000,Not stated,MEDIUM,21,"Actual collected amount for Railway Development Levy surpassing targets."
+N/A,National Treasury,Railway Levy,Revenue Collection,Remittance,Railway Development Levy,Variance,3733000000,Not stated,LOW,21,"Positive variance in Railway Development Levy collection against the set target."
+1091,State Department for Roads,Roads Infrastructure,Budget Performance,Project Spend,Recurrent Expenditure,Target_Budget,71541000000,Not stated,MEDIUM,25,"Target budget for recurrent expenditure for State Department for Roads."
+1091,State Department for Roads,Roads Infrastructure,Budget Performance,Project Spend,Recurrent Expenditure,Actual_Spend,30990000000,Not stated,MEDIUM,25,"Actual recurrent expenditure absorbed by the State Department for Roads."
+1091,State Department for Roads,Roads Infrastructure,Budget Performance,Project Spend,Recurrent Expenditure,Variance,-40551000000,Not stated,HIGH,25,"Massive under-absorption of recurrent budget by State Department for Roads."
+1091,State Department for Roads,Roads Infrastructure,Budget Performance,Project Spend,Development Expenditure,Target_Budget,150253000000,Not stated,MEDIUM,25,"Target development budget allocated for roads infrastructure."
+1091,State Department for Roads,Roads Infrastructure,Budget Performance,Project Spend,Development Expenditure,Actual_Spend,39022000000,Not stated,MEDIUM,25,"Actual development expenditure recorded by State Department for Roads."
+1091,State Department for Roads,Roads Infrastructure,Budget Performance,Project Spend,Development Expenditure,Variance,-111231000000,Not stated,HIGH,25,"Severe under-absorption of over 111 billion in the road infrastructure development budget."
+1091,State Department for Roads,Roads Infrastructure,Budget Performance,Project Spend,Share of Total Development Expenditure,Percentage,14.1,Not stated,MEDIUM,15,"Roads department accounted for the second largest share of national development expenditure."
+1092,State Department for Transport,Roads Infrastructure,Budget Performance,Project Spend,Recurrent Expenditure,Target_Budget,7122000000,Not stated,MEDIUM,25,"Target recurrent expenditure budget for State Department for Transport."
+1092,State Department for Transport,Roads Infrastructure,Budget Performance,Project Spend,Recurrent Expenditure,Actual_Spend,995000000,Not stated,MEDIUM,25,"Actual recurrent budget spent by State Department for Transport."
+1092,State Department for Transport,Roads Infrastructure,Budget Performance,Project Spend,Recurrent Expenditure,Variance,-6127000000,Not stated,HIGH,25,"Significant under-utilization of recurrent budget for transport."
+1092,State Department for Transport,Roads Infrastructure,Budget Performance,Project Spend,Development Expenditure,Target_Budget,40334000000,Not stated,MEDIUM,25,"Target development budget allocated for transport infrastructure."
+1092,State Department for Transport,Roads Infrastructure,Budget Performance,Project Spend,Development Expenditure,Actual_Spend,8614000000,Not stated,MEDIUM,25,"Actual development budget absorbed by State Department for Transport."
+1092,State Department for Transport,Roads Infrastructure,Budget Performance,Project Spend,Development Expenditure,Variance,-31720000000,Not stated,HIGH,25,"Under-absorption of 31 billion in transport development budget."
+1093,State Department for Shipping and Maritime Affairs,Roads Infrastructure,Budget Performance,Project Spend,Development Expenditure,Target_Budget,2225000000,Not stated,MEDIUM,25,"Target development budget allocated for shipping and maritime."
+1093,State Department for Shipping and Maritime Affairs,Roads Infrastructure,Budget Performance,Project Spend,Development Expenditure,Actual_Spend,83000000,Not stated,MEDIUM,25,"Actual development budget absorbed by shipping and maritime department."
+1093,State Department for Shipping and Maritime Affairs,Roads Infrastructure,Budget Performance,Project Spend,Development Expenditure,Variance,-2142000000,Not stated,HIGH,25,"Severe under-absorption in shipping and maritime development budget."
+1094,State Department for Housing & Urban Development,Affordable Housing,Budget Performance,Project Spend,Recurrent Expenditure,Target_Budget,7099000000,Not stated,MEDIUM,25,"Target recurrent expenditure budget for housing and urban development."
+1094,State Department for Housing & Urban Development,Affordable Housing,Budget Performance,Project Spend,Recurrent Expenditure,Actual_Spend,876000000,Not stated,MEDIUM,25,"Actual recurrent budget spent by housing department."
+1094,State Department for Housing & Urban Development,Affordable Housing,Budget Performance,Project Spend,Recurrent Expenditure,Variance,-6223000000,Not stated,HIGH,25,"Under-absorption of over 6 billion in housing recurrent budget."
+1094,State Department for Housing & Urban Development,Affordable Housing,Budget Performance,Project Spend,Development Expenditure,Target_Budget,116729000000,Not stated,MEDIUM,25,"Target development budget allocated for housing and urban development."
+1094,State Department for Housing & Urban Development,Affordable Housing,Budget Performance,Project Spend,Development Expenditure,Actual_Spend,55923000000,Not stated,MEDIUM,25,"Actual development budget absorbed by housing department."
+1094,State Department for Housing & Urban Development,Affordable Housing,Budget Performance,Project Spend,Development Expenditure,Variance,-60806000000,Not stated,HIGH,25,"Under-absorption of over 60 billion in housing development budget."
+1094,State Department for Housing & Urban Development,Affordable Housing,Budget Performance,Project Spend,Share of Total Development Expenditure,Percentage,20.2,Not stated,MEDIUM,15,"Housing department accounted for the largest share of national development expenditure."
+1095,State Department for Public Works,Roads Infrastructure,Budget Performance,Project Spend,Recurrent Expenditure,Target_Budget,3692000000,Not stated,MEDIUM,25,"Target recurrent expenditure budget for public works."
+1095,State Department for Public Works,Roads Infrastructure,Budget Performance,Project Spend,Recurrent Expenditure,Actual_Spend,1017000000,Not stated,MEDIUM,25,"Actual recurrent budget spent by public works department."
+1095,State Department for Public Works,Roads Infrastructure,Budget Performance,Project Spend,Recurrent Expenditure,Variance,-2675000000,Not stated,HIGH,25,"Under-absorption in public works recurrent budget."
+1095,State Department for Public Works,Roads Infrastructure,Budget Performance,Project Spend,Development Expenditure,Target_Budget,753000000,Not stated,MEDIUM,25,"Target development budget allocated for public works."
+1095,State Department for Public Works,Roads Infrastructure,Budget Performance,Project Spend,Development Expenditure,Actual_Spend,27000000,Not stated,MEDIUM,25,"Actual development budget absorbed by public works department."
+1095,State Department for Public Works,Roads Infrastructure,Budget Performance,Project Spend,Development Expenditure,Variance,-726000000,Not stated,HIGH,25,"Under-absorption in public works development budget."
+N/A,National Government,Multi-Levy,Pending Bills,Payables,Total Outstanding Pending Bills,Payable,468500000000,Not stated,CRITICAL,26,"Total outstanding pending bills for National Government severely affecting liquidity."
+N/A,State Corporations,Multi-Levy,Pending Bills,Payables,State Corporations Pending Bills,Payable,368900000000,Not stated,HIGH,26,"Total outstanding pending bills for State Corporations."
+N/A,Ministries/State Departments,Multi-Levy,Pending Bills,Payables,Ministries and State Departments Pending Bills,Payable,99600000000,Not stated,HIGH,26,"Total outstanding pending bills for Ministries and State Departments."
+N/A,National Government,Multi-Levy,Pending Bills,Payables,Recurrent Pending Bills Percentage,Percentage,59.0,Not stated,HIGH,26,"Percentage of total national government pending bills that are recurrent."
+N/A,National Government,Multi-Levy,Pending Bills,Payables,Development Pending Bills Percentage,Percentage,41.0,Not stated,HIGH,26,"Percentage of total national government pending bills that are development."
+N/A,State Corporations,Multi-Levy,Pending Bills,Payables,Contractors and Projects Pending Bills,Payable,161578200000,Not stated,HIGH,26,"State Corporations have over 161.5 billion in unpaid bills explicitly for development projects and contractors."
+N/A,State Corporations,Multi-Levy,Pending Bills,Payables,Contractors and Projects Pending Bills Percentage,Percentage,43.8,Not stated,HIGH,26,"Percentage of SCs pending bills explicitly tied to development contractors and projects."
+---INSIGHTS---
+HEADLINE: Massive under-absorption of over KSh 204 billion in infrastructure development budgets threatens project execution, while State Corporations simultaneously choke the economy with KSh 161.5 billion in unpaid contractor bills.
+COLLECTION & TARGETS:
+The Railway Development Levy outpaced expectations, collecting KSh 22.9 billion against a target of KSh 19.2 billion (a positive variance of KSh 3.7 billion).
+RISK & LOSSES:
+National Government outstanding pending bills sit at a staggering KSh 468.5 billion, presenting a severe risk to supplier liquidity and economic stability.
+Out of these total arrears, State Corporations hold KSh 368.9 billion, with KSh 161.5 billion (43.8%) explicitly owed to development projects and contractors.
+ABSORPTION:
+The State Department for Roads missed its KSh 150.2 billion development spending target by an enormous KSh 111.2 billion, absorbing only KSh 39 billion despite capturing 14.1% of the national development share.
+The State Department for Housing and Urban Development similarly failed to absorb KSh 60.8 billion of its KSh 116.7 billion development budget.
+The State Department for Transport fell short of its development spending targets by KSh 31.7 billion.
+The State Department for Shipping and Maritime Affairs absorbed a mere KSh 83 million out of its KSh 2.2 billion development allocation.
+RECOMMENDATION FOLLOW-UP:
+The provided review document operates at a macro-fiscal level and does not detail specific Public Accounts Committee (PAC) or Auditor-General recommendation follow-ups.
+WHAT THIS MEANS FOR CITIZENS:
+Despite Kenyans consistently paying levies like the Railway Development Levy—which actually overperformed its targets—the government is failing to deploy these funds into the economy. With over KSh 204 billion sitting unspent across the roads, transport, and housing departments, infrastructure is stalling. Compounding the pain, the government is withholding KSh 161.5 billion in pending bills meant for contractors, forcing local businesses into bankruptcy, causing mass layoffs, and ensuring that promised roads and affordable houses remain undelivered.

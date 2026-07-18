@@ -1,0 +1,1163 @@
+Vote_Code,Entity_Name,Levy_Type,Dimension,Transaction_Category,Project_or_Specific_Issue,Metric,Value_Ksh,Legal_Compliance,Risk_Factor,Audit_Ref
+1071,The National Treasury,Fuel Levy (RMLF),Centralized Tracking,Revenue Collection,RMLF Total Annual Collection,Expected_Revenue,84000000000,PFM Act 2012,Under-collection,14
+1071,The National Treasury,Fuel Levy (RMLF),Centralized Tracking,Allocation,Transfer to Kenya Roads Board,Allocated_Fund,78000000000,Art 229,Liquidity Gap,15
+1091,State Dept for Roads,Fuel Levy (RMLF),Opacity,Securitization,Ksh 7 per Litre Levy Securitization,Loan_Principal,175000000000,Art 214 Breach,Off-budget Debt,27
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Kenol-Sagana-Marua Highway (P-KE-DBO-037),Audited_Expenditure,5474025685,Clause 14.8,Cost Overrun,331
+1091,State Dept for Roads,Fuel Levy (RMLF),Variance,Interest Penalty,James Gichuru-Rironi Road Delay,Interest_Accrued,555004119,PPAD Act 2015,Fiscal Leakage,349
+1094,State Dept for Housing,Affordable Housing,Allocation,Budgetary Allocation,Affordable Housing Finance Project (IBRD),Allocated_Fund,19620451418,PFM Act 2012,Unconfirmed Lending,75
+1094,State Dept for Housing,Affordable Housing,Variance,Unconfirmed Repayment,KMRC (Kenya Mortgage Refinance Co) Loan,Unreconciled_Balance,19620451418,IPSAS 33,Accounting Opacity,75
+1185,State Dept for Social Protection,Affordable Housing,Remittance,Payroll Deduction,Unremitted Housing Levy (Project Staff),Revenue_Leakage,12034782,Housing Act 2024,Statutory Breach,702
+1221,State Dept for EAC,Affordable Housing,Remittance,Payroll Deduction,Unremitted Housing Levy (Deducted),Revenue_Leakage,3713128,Housing Act 2024,Non-Remittance,746
+1252,State Law Office,Affordable Housing,Remittance,Payroll Deduction,Housing Levy Audit Gap (Unreconciled),Variance,103075939,IPSAS 1,Data Opacity,752
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Pending Bills,Unsettled Road Contractors (Batch 1),Payable,680646103,Reg 42(1),First Charge Failure,330
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Pending Bills,Unsettled Road Contractors (Batch 2),Payable,1133791086,Reg 42(1),Interest Risk,336
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Mombasa-Mariakani Highway Lot 1,Audited_Expenditure,772198851,Contractual,Slow Implementation,343
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Kenya South Sudan Link Road,Audited_Expenditure,505576922,Funding Summary,Under-absorption,344
+1092,State Dept for Transport,Fuel Levy (RMLF),Expenditure,Project Spend,Horn of Africa Gateway Development,Audited_Expenditure,264382303,Emphasis of Matter,Under-utilization,377
+1095,State Dept for Public Works,Fuel Levy (RMLF),Expenditure,Project Spend,Kiwayu Jetty and Seawall (Stalled),Audited_Expenditure,517882312,Unbudgeted,Capital Loss,414
+1104,State Dept for Irrigation,Fuel Levy (RMLF),Expenditure,Project Spend,Thiba Dam Fencing Phase 1,Audited_Expenditure,15995465,Contractual,Delay,438
+1104,State Dept for Irrigation,Fuel Levy (RMLF),Expenditure,Project Spend,Thiba Dam Fencing Phase 2,Audited_Expenditure,15653415,Contractual,Workmanship,439
+1091,KURA,Fuel Levy (RMLF),Expenditure,Project Spend,Nairobi Outering Road Improvement,Audited_Expenditure,151105054,Emphasis of Matter,Closure Failure,371
+1091,KURA,Fuel Levy (RMLF),Expenditure,Project Spend,Nairobi Intelligent Transport System,Audited_Expenditure,1438852394,Basis for Conclusion,Design Delay,374
+1094,State Dept for Housing,Affordable Housing,Expenditure,Project Spend,Kisumu Urban Project (CKE 1035.01.G),Audited_Expenditure,111352253,Ineligible,Refund Required,411
+1176,State Dept for MSMED,Affordable Housing,Expenditure,Infrastructure,KIBT Phase II Building (Water Leakage),Audited_Expenditure,66140848,Reg 9,Asset Deterioration,678
+1091,KeRRA,Fuel Levy (RMLF),Expenditure,Project Spend,Chuka-Kaanwa Road,Audited_Expenditure,2229131140,Qualified Opinion,Implementation Delay,376
+1091,KeRRA,Fuel Levy (RMLF),Expenditure,Project Spend,Musikoma Livestock Market Road,Audited_Expenditure,8924144,Qualified Opinion,Value for Money,609
+1091,KeRRA,Fuel Levy (RMLF),Expenditure,Project Spend,Banita Livestock Market Road,Audited_Expenditure,5941970,Qualified Opinion,Contract Expiry,608
+1011,Executive Office President,Affordable Housing,Remittance,Compliance,Housing Levy Deducted but not verified,Variance,333317,Legal Notice 206,Data Opacity,106
+1012,Office Deputy President,Fuel Levy (RMLF),Expenditure,Refurbishment,State House Annex Mombasa,Audited_Expenditure,49983805,Basis for Conclusion,Stalled Works,110
+1025,National Police Service,Affordable Housing,Remittance,Compliance,Housing Levy Deducted (Project Personnel),Revenue_Leakage,25200000,Housing Act 2024,Remittance Gap,140
+1032,State Dept Devolution,Fuel Levy (RMLF),Allocation,Inter-entity,County Revenue Fund (Kilifi) Transfer,Allocated_Fund,37500000,PFM Act 2012,Timing Variance,156
+1032,State Dept Devolution,Fuel Levy (RMLF),Allocation,Inter-entity,County Revenue Fund (Taita Taveta) Transfer,Allocated_Fund,2500000,PFM Act 2012,Shortfall,159
+1032,State Dept Devolution,Fuel Levy (RMLF),Allocation,Inter-entity,County Revenue Fund (Garissa) Transfer,Allocated_Fund,11000000,PFM Act 2012,Late Submission,161
+1032,State Dept Devolution,Fuel Levy (RMLF),Allocation,Inter-entity,County Revenue Fund (Wajir) Transfer,Allocated_Fund,5000000,PFM Act 2012,Under-funding,162
+1032,State Dept Devolution,Fuel Levy (RMLF),Allocation,Inter-entity,County Revenue Fund (Nyeri) Transfer,Allocated_Fund,8000000,PFM Act 2012,Under-funding,164
+1032,State Dept Devolution,Fuel Levy (RMLF),Allocation,Inter-entity,County Revenue Fund (Kirinyaga) Transfer,Allocated_Fund,9000000,PFM Act 2012,Inaccuracy,166
+1032,State Dept Devolution,Fuel Levy (RMLF),Allocation,Inter-entity,County Revenue Fund (Nandi) Transfer,Allocated_Fund,19941400,PFM Act 2012,Budget Distortion,170
+1032,State Dept Devolution,Fuel Levy (RMLF),Allocation,Inter-entity,County Revenue Fund (Nakuru) Transfer,Allocated_Fund,15000000,PFM Act 2012,Late Submission,171
+1032,State Dept Devolution,Fuel Levy (RMLF),Allocation,Inter-entity,County Revenue Fund (Bungoma) Transfer,Allocated_Fund,5000000,PFM Act 2012,Late Submission,172
+1032,State Dept Devolution,Fuel Levy (RMLF),Allocation,Inter-entity,County Revenue Fund (Busia) Transfer,Allocated_Fund,37000000,PFM Act 2012,Delayed Funding,174
+1032,State Dept Devolution,Fuel Levy (RMLF),Allocation,Inter-entity,County Revenue Fund (Kisumu) Transfer,Allocated_Fund,14463000,PFM Act 2012,Under-expenditure,175
+1032,State Dept Devolution,Fuel Levy (RMLF),Allocation,Inter-entity,County Revenue Fund (Migori) Transfer,Allocated_Fund,10000000,PFM Act 2012,Under-utilization,176
+1032,State Dept Devolution,Fuel Levy (RMLF),Allocation,Inter-entity,County Revenue Fund (Kisii) Transfer,Allocated_Fund,7000000,PFM Act 2012,Under-funding,178
+1032,State Dept Devolution,Fuel Levy (RMLF),Allocation,Inter-entity,County Revenue Fund (Nyamira) Transfer,Allocated_Fund,5000000,PFM Act 2012,Under-funding,179
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Lesseru-Kitale Road Upgrading,Audited_Expenditure,1248867079,Financing Agreement,Behind Schedule,492
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Mandera Water Infrastructure,Audited_Expenditure,1029080354,Financing Agreement,72% Progress,492
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Mombasa Gate Bridge Construction,Audited_Expenditure,1008985641,Emphasis of Matter,2% Absorption,358
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Bagamoyo-Malindi Road Phase 1,Audited_Expenditure,4708746010,Emphasis of Matter,Under-absorption,360
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Mtwapa-Kilifi Section Lot 2,Audited_Expenditure,7211211611,MPR No. 43,Stalled Project,361
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Isebania-Kisii-Ahero (A1) Rehab,Audited_Expenditure,29320319972,Emphasis of Matter,Low Absorption,346
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,National Urban Transport Improvement,Audited_Expenditure,3127882038,Emphasis of Matter,14% Absorption,348
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Samatar-Wajir Road Project,Audited_Expenditure,3653018,Emphasis of Matter,Procurement Stage,365
+1109,State Dept for Water,Fuel Levy (RMLF),Expenditure,Project Spend,Mwache Multipurpose Dam,Audited_Expenditure,34199554851,Note 13,94% Progress,455
+1109,State Dept for Water,Fuel Levy (RMLF),Expenditure,Project Spend,Mombasa Water Supply Dist.,Audited_Expenditure,166508682,Emphasis of Matter,Under-funding,496
+1109,State Dept for Water,Fuel Levy (RMLF),Expenditure,Project Spend,Likoni Emergency Water Works,Audited_Expenditure,254940450,Basis for Conclusion,91% Progress,497
+1109,State Dept for Water,Fuel Levy (RMLF),Expenditure,Project Spend,Garissa Office/Laboratory,Audited_Expenditure,8160464,Basis for Conclusion,9% Progress,462
+1109,State Dept for Water,Fuel Levy (RMLF),Expenditure,Project Spend,Boreholes Group 3 (Wajir),Audited_Expenditure,151679740,Basis for Conclusion,82% Progress,463
+1109,State Dept for Water,Fuel Levy (RMLF),Expenditure,Project Spend,Kwale Collector/Transmission,Audited_Expenditure,322689010,Basis for Conclusion,57% Progress,463
+1109,State Dept for Water,Fuel Levy (RMLF),Expenditure,Project Spend,Mabokoni Reservoir Dist.,Audited_Expenditure,462145038,Basis for Conclusion,Understated Retention,464
+1109,State Dept for Water,Fuel Levy (RMLF),Expenditure,Project Spend,Mtwapa Sludge Facility,Audited_Expenditure,351375054,Basis for Conclusion,Abandoned Site,464
+1109,State Dept for Water,Fuel Levy (RMLF),Expenditure,Project Spend,Baricho Well-Field Protection,Audited_Expenditure,791253843,Note 9,Non-delivery Equipment,466
+1109,State Dept for Water,Fuel Levy (RMLF),Expenditure,Project Spend,Nakuru/Wajir Motorbikes,Audited_Expenditure,1436660,Note 11,Logbook Absence,467
+1071,The National Treasury,Affordable Housing,Data Gap,e-Citizen Receipts,Kshs.3.7B Opening Balance Gap,Variance,7111818221,Adverse Opinion,System Transparency,43
+1071,The National Treasury,Affordable Housing,Data Gap,e-Citizen Receipts,Unremitted Fund Balance Variance,Variance,5082922514,Adverse Opinion,System Transparency,43
+1071,The National Treasury,Affordable Housing,Data Gap,e-Citizen Receipts,Undisbursed closing amounts,Variance,4912502229,Adverse Opinion,Cash Flow Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Data Gap,e-Citizen Transfers,Kenya Airports Authority Variance,Variance,2471120,Ksh,Manual Preparation,44
+1071,The National Treasury,Fuel Levy (RMLF),Data Gap,e-Citizen Transfers,National Construction Authority Variance,Variance,900232435,Ksh,Manual Preparation,44
+1185,State Dept Social Protection,Affordable Housing,Remittance,Ineligible Spend,Ineligible refund to donor,Loss,1034000,Financing Agreement,Ineligible Expenditure,740
+1185,State Dept Social Protection,Affordable Housing,Remittance,Audit Issue,Voided Transactions (e-Citizen),Variance,459448302,Note 10,System Integrity,700
+1185,State Dept Social Protection,Affordable Housing,Remittance,Audit Issue,Unsupported Cash Payments,Variance,12000000,Note 11,Audit Trail Gap,700
+1185,State Dept Social Protection,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 basic salary,Count,1515,No,Employment Act,Staff Welfare,702
+1185,State Dept Social Protection,Affordable Housing,HR,Statutory,Unremitted NSSF Tier II,Arrears,122615743,NSSF Act 2013,Liability Risk,702
+1185,State Dept Social Protection,Affordable Housing,HR,Statutory,Unremitted PAYE (Casuals),Arrears,1942030,Income Tax Act,Revenue Leakage,702
+1185,State Dept Social Protection,Affordable Housing,Expenditure,LPO Anomaly,Stationery LPO for Latrine Works,Variance,1980680,PPAD Act 2015,Misclassification,703
+1185,State Dept Social Protection,Affordable Housing,Expenditure,Sitting Allowance,Double Payment of Staff,Loss,19288400,SRC Circular,Fiscal Leakage,703
+1185,State Dept Social Protection,Affordable Housing,Expenditure,Procurement,Uasin Gishu Unregistered Suppliers,Variance,13817525,PPAD Act 2015,Regulatory Breach,704
+1185,State Dept Social Protection,Affordable Housing,Remittance,Social Benefit,Ineligible Older Person Payments,Loss,26937000,Operations Manual,Targeting Error,704
+1091,State Dept for Roads,Fuel Levy (RMLF),Variance,Delayed Implementation,Barabara Plaza Partitioning,Audited_Expenditure,34567895,Contractual,Value for Money,327
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Nanyuki-Rumuruti Underground Cable,Audited_Expenditure,963354781,Emphasis of Matter,Budget Deficit,572
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Interest,Delayed Payment Interest (Nanyuki),Loss,148268754,Financing Agreement,Fiscal Leakage,569
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Interest,Variation cost (Nanyuki Addendum),Loss,77160819,Financing Agreement,Fiscal Leakage,569
+1122,State Dept ICT,Fuel Levy (RMLF),Network,NOFBI,Government Connectivity failure (70%),Percentage,70,Percent,Physical Verification,Digital Infrastructure,515
+1122,State Dept ICT,Fuel Levy (RMLF),Maintenance,Efficiency,NOFBI 2E Maintenance duplication,Risk,N/A,No,Contractual,Coordination Failure,516
+1123,State Dept Broadcasting,Affordable Housing,Rent,Expired Lease,Uchumi House Rental Payment,Loss,1572960,Reg 83(2)e,Prepayment Breach,525
+1152,State Dept Energy,Fuel Levy (RMLF),Expenditure,Pending Bills,Unsettled contractors (2022),Payable,73137418,Reg 42(1),Regulatory Breach,545
+1152,State Dept Energy,Fuel Levy (RMLF),Expenditure,Statutory,Unremitted KRA Taxes (Consultants),Arrears,11103358,Tax Procedures Act,Legal Breach,545
+1152,State Dept Energy,Fuel Levy (RMLF),Expenditure,Loan Balance,Unrefunded World Bank balance,Arrears,75777583,Disbursement Guide,Contractual Breach,545
+1162,State Dept Livestock,Affordable Housing,Revenue,AIA Gap,Institute revenue not in e-Citizen,Variance,126627657,Qualified Opinion,Accounting Failure,597
+1162,State Dept Livestock,Affordable Housing,Remittance,Over-collection,Undisclosed AIA collection,Variance,77454109,Qualified Opinion,Accounting Failure,597
+1166,State Dept Blue Economy,Fuel Levy (RMLF),Expenditure,Project Spend,Lamu County Fisheries Office,Audited_Expenditure,22346500,Contractual,24% Progress,625
+1094,State Dept for Housing,Affordable Housing,Land,Ownership,Missing Titles (National Archives),Risk,N/A,No,Qualified Opinion,Encroachment,529
+1094,State Dept for Housing,Affordable Housing,HR,Understaffing,32% deficit in teachers/staff,Count,3224,No,Staff Establishment,Service Quality,850
+1252,State Law Office,Affordable Housing,Legal,Arbitration,Huduma Kenya MIS Dispute,Liability,8103600,Note 24,Interest Risk,742
+1252,State Law Office,Affordable Housing,Rent,Dispute,Postal Corp Rent Mediation,Liability,1538980171,Note 12,Legal Strain,743
+1252,State Law Office,Affordable Housing,Rent,Variance,Unoccupied Pension Towers Space,Loss,12277440,Basis for Conclusion,Wasteful Spend,749
+2031,IEBC,Fuel Levy (RMLF),Legal,Payables,Legal Fee Payables increase,Arrears,3545820000,Emphasis of Matter,Fiscal Strain,834
+1091,State Dept for Roads,Fuel Levy (RMLF),HR,Over-commitment,Staff earning < 1/3 basic salary,Count,111,No,Employment Act,Staff Welfare,325
+1091,State Dept for Roads,Fuel Levy (RMLF),Reporting,Contract Awards,Missing PPRA contract reports,Risk,N/A,No,Reg 131(1),Regulatory Breach,325
+1091,State Dept for Roads,Fuel Levy (RMLF),HR,PWD,Failure to meet 5% PWD threshold,Percentage,2,Percent,PWD Act 2025,Legal Breach,313
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Nairobi Western Bypass (Undrawn),Arrears,3816842945,Emphasis of Matter,Under-utilization,354
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Pending Bills,Compensation to PAPs (Western Bypass),Arrears,561353679,Section 111 Land Act,Breach of Law,354
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Lesseru-Kitale Road Phase 1,Audited_Expenditure,4749435727,Emphasis of Matter,Contractual Breach,356
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Interest,Delayed Payment Interest (Lesseru),Loss,70026609,Basis for Conclusion,Fiscal Leakage,357
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Mtwapa-Kilifi Section Lot 1,Audited_Expenditure,4244222480,MPR No. 34,Slow Implementation,361
+1094,State Dept Housing,Affordable Housing,Allocation,Inter-entity,County Revenue Fund (Kiambu) Transfer Failure,Variance,264543092,Financing Agreement,Bura/Housing Gap,402
+1094,State Dept Housing,Affordable Housing,Allocation,Inter-entity,County Revenue Fund (Nairobi) Transfer Failure,Variance,260000000,Financing Agreement,Bura/Housing Gap,403
+1094,State Dept Housing,Affordable Housing,Allocation,Inter-entity,County Revenue Fund (Taita Taveta) Transfer Failure,Variance,26321755,Financing Agreement,Bura/Housing Gap,403
+1176,State Dept MSMED,Affordable Housing,Expenditure,Rent,Rent paid for unoccupied space,Loss,66140848,Note 17,Wasteful Spend,677
+1176,State Dept MSMED,Affordable Housing,Expenditure,Procurement,Irregular Air Ticket RFQ,Variance,6208575,PPAD Reg 2020,Non-competitive,678
+1176,State Dept MSMED,Affordable Housing,HR,Travel,Suspended Foreign Travel Spend,Loss,4168440,Circular OP/CAB.308,Regulatory Breach,678
+1176,State Dept MSMED,Affordable Housing,Project,Sustainability,KJET Project Washington Travel Ineligible,Loss,1840695,Basis for Conclusion,Ineligible spend,679
+1176,State Dept MSMED,Affordable Housing,Project,Sustainability,KJET Project Unimplemented Activities,Variance,162879712,Emphasis of Matter,Under-performance,680
+1176,State Dept MSMED,Affordable Housing,Project,Implementation,KJET Delay (15 Months start gap),Risk,N/A,No,Financing Agreement,Breach of Clause 5.02,684
+1071,The National Treasury,Affordable Housing,Budget Gap,Funding Shortfall,National Treasury under-funding vs Budget,Variance,16748231,Emphasis of Matter,Under-funding,681
+1071,The National Treasury,Affordable Housing,Remittance,Interest,NYOTA Project Commitment Charge,Loss,N/A,No,Art II Financing,Avoidable Cost,682
+1071,The National Treasury,Affordable Housing,Expenditure,Training,Unbudgeted Training Activities,Variance,N/A,No,Basis for Conclusion,Internal Control,78
+1185,State Dept Social Protection,Affordable Housing,Reporting,Template,Incomplete PPE Recognition,Risk,N/A,No,IPSAS 33,Accounting Opacity,700
+1185,State Dept Social Protection,Affordable Housing,Variance,Inter-entity,KSEIP Transfer Variance,Variance,222059847,Note 11,Unexplained Difference,700
+1185,State Dept Social Protection,Affordable Housing,Remittance,Payroll,Staff earning < 1/3 basic salary,Count,54,No,Reg 42(a),Pecuniary Embarrassment,691
+1185,State Dept Social Protection,Affordable Housing,Payables,Pending Bills,Unsettled bills > 2 years,Arrears,169551942,Reg 42(a),Interest Risk,729
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Nairobi Outer Ring Road (Undrawn),Arrears,869039,Financing Agreement,Unimplemented,372
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Payables,Outer Ring Road Accounts Payable,Arrears,695093569,Note 10,Long Outstanding,371
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,East/West Nairobi Sewers (Road related),Audited_Expenditure,1278465431,Basis for Conclusion,Behind Schedule,485
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,James Gichuru-Rironi Expansion,Audited_Expenditure,20414794998,Note 9,PHYSICAL Progress 78%,349
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Kibwezi-Mutomo-Kitui-Migwani,Audited_Expenditure,1949071920,Emphasis of Matter,Pending Bills,333
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Kibwezi-Mutomo (Addendum 3),Audited_Expenditure,21545912343,Note 9,Suspended Works,335
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Dualling Magongo Road Phase II,Audited_Expenditure,5937096453,Emphasis of Matter,Closure Failure,336
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Payables,Magongo Road Pending Bills,Arrears,684466506,Note 11,Long Outstanding,336
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Contract,Magongo Road Prolongation Claim,Liability,3497747818,Note 11,142% of Orig Cost,337
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Eldoret Bypass Project,Audited_Expenditure,16153149844,Emphasis of Matter,31% Undrawn,338
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Payables,Eldoret Bypass Pending Bills,Arrears,1104383944,Note 10,Long Outstanding,338
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Payables,Mombasa Port Area Accounts Payable,Arrears,3883993877,Note 10,Long Outstanding,341
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Interest,Mombasa Port Area Delay Interest,Loss,559309410,Note 9,Avoidable Cost,342
+1071,The National Treasury,Fuel Levy (RMLF),Exchequer,Fund Release,Road Maintenance Levy Disbursements,Expected_Revenue,78000000000,PFM Act 2012,Manual Release Lag,20
+1109,State Dept for Water,Affordable Housing,HR,Deduction,Housing Levy remitted manually,Risk,N/A,No,Reg 97(4),Data Integrity,20
+1112,State Dept for Lands,Affordable Housing,Remittance,Compliance,Housing Levy withheld (Manual adjustment),Variance,145824907,Adverse Opinion,Audit Trail Gap,43
+1112,State Dept for Lands,Affordable Housing,Remittance,Compliance,Housing Levy (e-Citizen vs Ledger),Variance,23315012,Adverse Opinion,System Inconsistency,43
+1112,State Dept for Lands,Affordable Housing,Remittance,Compliance,Housing Levy (Missing Digits in FS),Variance,313550043,Adverse Opinion,Reporting Error,240
+1174,State Dept for Trade,Affordable Housing,Remittance,Compliance,Housing Levy (Project Casuals),Revenue_Leakage,118454,Legal Notice 206,Non-remittance,323
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Sagana-Marua Road (A2) Dualling,Audited_Expenditure,9146922301,Note 11,49% Variation,332
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Payables,Sagana-Marua Road Pending Bills,Arrears,949895176,Note 11,Long Outstanding,332
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Gilgil Machinery Road Upgrading,Audited_Expenditure,1476491036,Note 12,74 Month Delay,382
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Interest,Gilgil Machinery Delay Interest,Loss,20727964,Note 8,Avoidable Cost,382
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Gotu-Merti (C340-01A) Road,Audited_Expenditure,122703120,Note 10,Behind Schedule,384
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Gotu-Merti (C340-01B) Road,Audited_Expenditure,106787725,Note 10,Behind Schedule,384
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Isiolo-Mlango-Oldonyiro (C342-02A),Audited_Expenditure,124674642,Note 10,Abandoned Site,384
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Marima-Makutano Road Upgrading,Audited_Expenditure,66767678,Note 10,Behind Schedule,385
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Materi-Kamarandi Road Upgrading,Audited_Expenditure,63985207,Note 10,Behind Schedule,385
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Itungururu-Kamaende Road Sealing,Audited_Expenditure,233413365,Note 10,Behind Schedule,385
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Kachulu-Gotu (C346) Road Sealing,Audited_Expenditure,70429226,Note 10,Behind Schedule,386
+1094,State Dept Housing,Affordable Housing,Remittance,County CRF,County Revenue Fund (Kiambu) Lag,Variance,264543092,Reg 83,Transfer Timing,403
+1094,State Dept Housing,Affordable Housing,Remittance,County CRF,County Revenue Fund (Nairobi) Lag,Variance,260000000,Reg 83,Transfer Timing,403
+1094,State Dept Housing,Affordable Housing,Remittance,County CRF,County Revenue Fund (Taita Taveta) Lag,Variance,26321755,Reg 83,Transfer Timing,403
+1094,State Dept Housing,Affordable Housing,Remittance,County CRF,County Revenue Fund (Kilifi) Lag,Variance,717452627,Reg 83,Transfer Timing,460
+1094,State Dept Housing,Affordable Housing,Remittance,County CRF,County Revenue Fund (Garissa) Lag,Variance,309743043,Reg 83,Transfer Timing,460
+1094,State Dept Housing,Affordable Housing,Remittance,County CRF,County Revenue Fund (Wajir) Lag,Variance,614904494,Reg 83,Transfer Timing,460
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 basic salary (March),Count,40,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 basic salary (April),Count,41,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 basic salary (May),Count,40,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 basic salary (June),Count,46,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,Payables,Legal,Delayed Settlement (Confirmed Awards),Liability,165980055,Emphasis of Matter,Penalty Risk,400
+1094,State Dept Housing,Affordable Housing,Payables,Pending Bills,Opening Pending Bills (Historical),Arrears,696695679,Emphasis of Matter,Budget Distortion,413
+1094,State Dept Housing,Affordable Housing,Expenditure,Wages,Excessive Wage Expenditure (Approved),Variance,202120023,Reg 210,Fiscal Leakage,414
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Ndau Seawall (Lamu) Contract sum increase,Variance,215426521,Contractual,Cost Overrun,415
+1094,State Dept Housing,Affordable Housing,Project,Interest,Ndau Seawall Arbitration Interest,Loss,174082171,Contractual,Avoidable Cost,415
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Adole Foot Bridge (Tana River) 20% progress,Risk,N/A,No,Contractual,Slow Build,416
+1094,State Dept Housing,Affordable Housing,Project,Asset,Unaccounted Motor Vehicle (Principal Sec),Loss,26767179,Qualified Opinion,Internal Control,526
+1071,The National Treasury,Fuel Levy (RMLF),Timing,Disbursement,Road Maintenance Levy Late Receipt (Q1),Variance,12400000000,Reg 97,Manual Delay,20
+1071,The National Treasury,Fuel Levy (RMLF),Timing,Disbursement,Road Maintenance Levy Late Receipt (Q2),Variance,15000000000,Reg 97,Manual Delay,20
+1071,The National Treasury,Fuel Levy (RMLF),Timing,Disbursement,Road Maintenance Levy Late Receipt (Q3),Variance,18000000000,Reg 97,Manual Delay,20
+1071,The National Treasury,Fuel Levy (RMLF),Timing,Disbursement,Road Maintenance Levy Late Receipt (Q4),Variance,32600000000,Reg 97,Manual Delay,20
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Nanyuki 132kV Underground Delay,Risk,N/A,No,Note 1805,553 Day gap,560
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Variance,Nanyuki Additional Budget Request,Variance,2000000,USD,Note 1806,Budget Deficit,560
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Interest,Last Mile Connectivity I commitment charge,Loss,6309750,Ksh,Basis Conclusion,Resource Wastage,463
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Gatundu Water Sewerage 33 Month Delay,Risk,N/A,No,Note 1484,EOT Overrun,463
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Compliance,Gatundu Land Acquisition under-remittance,Variance,327462128,Ksh,Note 1484,Funding Gap,463
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Kitui/Matuu Last Mile (Stalled 36%),Arrears,153344130,Ksh,Note 1485,Genuine Guarantee Failure,464
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Leakage,Kitui/Matuu Unrecovered Advance,Loss,32801599,USD,Note 1485,Genuine Guarantee Failure,464
+1091,KeNHA,Fuel Levy (RMLF),Project,Stall,Machakos Earth Embankment Dam,Loss,150151128,Ksh,Note 1486,Land Dispute,464
+1071,The National Treasury,Affordable Housing,Expenditure,Ineligible,Kenya Informal Settlement IBRD Refund,Arrears,5669894,EUR,Emphasis of Matter,Closure Lag,396
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Delay,Barabara Plaza Electrical Works (51% progress),Risk,N/A,No,Note 983,Behind Schedule,314
+1091,KeRRA,Fuel Levy (RMLF),Project,Delay,10TH EDF Rural Roads (12 Years),Risk,N/A,No,Note 1181,Non-completion,363
+1091,KeRRA,Fuel Levy (RMLF),Expenditure,Overfunding,Western Kenya Market Infra (Counterpart),Variance,354978653,Ksh,Qualified Opinion,Accounting Failure,365
+1091,KeRRA,Fuel Levy (RMLF),Project,Implementation,Mbeu Grain Drying Facility (Londiani),Risk,N/A,No,Note 1987.3,Delayed Transport,622
+1091,KeRRA,Fuel Levy (RMLF),Expenditure,Variance,Kibiru Feedlot Measured Works Variance,Variance,7668450,Ksh,Note 1903,Non-execution,590
+1091,KeRRA,Fuel Levy (RMLF),Expenditure,Variance,Kibiru Feedlot General Store Defects,Risk,N/A,No,Note 1903,Poor Workmanship,590
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (January),Count,32,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (February),Count,31,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (March),Count,12,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (April),Count,57,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (May),Count,50,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (June),Count,0,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,Remittance,Leakage,Unremitted Rent Revenue (Housing),Arrears,23625450,Ksh,Note 1275,Collection Failure,388
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Nanyuki 132kV Underground Cable,Audited_Expenditure,963354781,Ksh,Note 1802,Unexplained Excess,559
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Nanyuki-Rumuruti (AfDB Portion),Audited_Expenditure,635261689,Ksh,Note 1802,Data Inconsistency,559
+1091,KeNHA,Fuel Levy (RMLF),Reporting,Compliance,Mariakani Substation FS Errors (Page numbering),Risk,N/A,No,Note 1804,Format Breach,559
+1091,KeNHA,Fuel Levy (RMLF),Reporting,Compliance,Mariakani Substation FS Errors (Currency ref),Risk,N/A,No,Note 1804,Format Breach,559
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Variance,Last Mile Connectivity I Budget Discrepancy,Variance,28012000,Ksh,Basis Conclusion,Unapproved Spend,561
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Payables,Last Mile I Terminated Contract Bills,Arrears,89062000,Ksh,Basis Conclusion,Arbitration Delay,562
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Last Mile I Lot B1 Progress,Percentage,45,Percent,Note 1813,Behind Schedule,562
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Last Mile I Lot B2 Progress,Percentage,52,Percent,Note 1813,Behind Schedule,562
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Last Mile I Lot B3 Progress,Percentage,61,Percent,Note 1813,Behind Schedule,562
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Interest,Last Mile I Avoidable Interest,Loss,N/A,No,Note 1811,Fiscal Leakage,561
+1011,Executive Office President,Affordable Housing,Remittance,Compliance,Housing Levy Deducted but not remitted (Lottery Board),Arrears,114648159,Sec 21(1) Nat Lottery,Legal Breach,94
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Interest,KOSAP Commitment Fees (98% undrawn),Loss,22974867,Ksh,Note 1874,Avoidable Cost,579
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,KOSAP Mini-grids (31/57 target),Percentage,54,Percent,Note 1873,Target Failure,579
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Kenya Electricity Expansion (OPEC),Audited_Expenditure,1162772688,Ksh,Emphasis of Matter,23% Undrawn,593
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,KEEP Install Count (72% progress),Percentage,72,Percent,Note 1879,Time Lapse 97%,593
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Nkoisusu Market (4 year delay),Risk,N/A,No,Note 1884,Contractor Absence,595
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Kaluli Market (No power connection),Risk,N/A,No,Note 1885,Under-utilization,595
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Muthungutha Village (47 unconnected),Risk,N/A,No,Note 1886,Target Failure,595
+1091,KeNHA,Fuel Levy (RMLF),Variance,Target,KEEP expected connections variance,Variance,296665,No,Note 1887,Feasibility Gap,596
+1109,State Dept Water,Fuel Levy (RMLF),Remittance,Interest,Mwache Dam Delayed Payment Interest,Loss,468137276,Ksh,Note 1420,Avoidable Cost,442
+1109,State Dept Water,Fuel Levy (RMLF),Expenditure,Project,Mwache Dam Variation Orders,Variance,4014677115,Ksh,Note 1422,Cost Overrun,443
+1109,State Dept Water,Fuel Levy (RMLF),Expenditure,Project,Mwache Dam Price Adjustment,Variance,5270275261,Ksh,Note 1422,Cost Overrun,443
+1109,State Dept Water,Fuel Levy (RMLF),Internal Control,Audit,Mwache Dam Internal Audit Failure,Risk,N/A,No,Sec 73,Governance Gap,42
+1109,State Dept Water,Fuel Levy (RMLF),Asset,Registry,Mwache Dam Asset Registry missing,Risk,N/A,No,Reg 143,Internal Control,42
+1109,State Dept Water,Fuel Levy (RMLF),Remittance,Interest,Waitiki-Likoni Interest Charge,Loss,190095316,Ksh,Note 1359.2,Avoidable Cost,427
+1109,State Dept Water,Fuel Levy (RMLF),Project,Stall,Mwache Dam (41% Progress),Percentage,41,Percent,Note 1364.1,Behind Schedule,433
+1094,State Dept Housing,Affordable Housing,Remittance,County,County Revenue Fund (Kiambu) non-transfer,Variance,264543092,Reg 83,Mandate Overlap,402
+1094,State Dept Housing,Affordable Housing,Remittance,County,County Revenue Fund (Nairobi) non-transfer,Variance,260000000,Reg 83,Mandate Overlap,403
+1094,State Dept Housing,Affordable Housing,Remittance,County,County Revenue Fund (Taita Taveta) non-transfer,Variance,26321755,Reg 83,Mandate Overlap,403
+1094,State Dept Housing,Affordable Housing,Remittance,County,Kilifi County non-transfer to SPA,Variance,717435922,Reg 83,Governance Breach,460
+1094,State Dept Housing,Affordable Housing,Remittance,County,Garissa County non-transfer to SPA,Variance,307864442,Reg 83,Governance Breach,460
+1094,State Dept Housing,Affordable Housing,Remittance,County,Wajir County non-transfer to SPA,Variance,610917826,Reg 83,Governance Breach,460
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Nyandarua Housing Project Receipt Delay,Arrears,32309300,Ksh,Emphasis of Matter,Non-implementation,374
+1094,State Dept Housing,Affordable Housing,Expenditure,Rent,National Social Security Fund Rent overpayment,Loss,24849324,Ksh,Basis Conclusion,Fiscal Leakage,388
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Gotu-Merti (C340-01A) Physical Progress,Percentage,67.6,Percent,Behind Schedule,RMLF,384
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Gotu-Merti (C340-01B) Physical Progress,Percentage,60.8,Percent,Behind Schedule,RMLF,384
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Isiolo-Mlango (C342-02A) Physical Progress,Percentage,39.4,Percent,Behind Schedule,RMLF,384
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Marima-Makutano Physical Progress,Percentage,87,Percent,Behind Schedule,RMLF,385
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Materi-Kamarandi Physical Progress,Percentage,96.7,Percent,Behind Schedule,RMLF,385
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Itungururu-Kamaende Physical Progress,Percentage,23,Percent,Behind Schedule,RMLF,385
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Kachulu-Gotu Physical Progress,Percentage,32,Percent,Behind Schedule,RMLF,386
+1094,State Dept for Housing,Affordable Housing,Project,Implementation,Kisumu Urban Project Bank Charge,Loss,1200,Ksh,Emphasis of Matter,Idle Cash,411
+1094,State Dept for Housing,Affordable Housing,Remittance,Compliance,Housing Levy Deducted but not remitted (EAC),Revenue_Leakage,122615743,Housing Act 2024,Non-remittance,746
+1094,State Dept for Housing,Affordable Housing,Remittance,Compliance,Housing Levy Deducted but not remitted (Social Protection),Revenue_Leakage,12034782,Housing Act 2024,Non-remittance,702
+1094,State Dept for Housing,Affordable Housing,Remittance,Compliance,Housing Levy Deducted but not remitted (State Law Office),Revenue_Leakage,3713128,Housing Act 2024,Non-remittance,752
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Variance,Ksh 175B Loan Financing Deficit,Variance,492123199768,Sec 2 PFM,Fiscal Deficit,23
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Variance,Domestic vs External Borrowing Ratio (70:30),Variance,N/A,Ratio,MTDS Strategy,Strategic Breach,23
+1071,The National Treasury,Affordable Housing,Variance,Inaccuracy,e-Citizen Unspecified prior year balance,Variance,145824907,Note 26,Data Opacity,43
+1071,The National Treasury,Affordable Housing,Variance,Inaccuracy,e-Citizen Receipts from opening payables,Variance,4912502229,Note 26,Cash Flow Risk,43
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Kenya Airports Authority,Variance,2471120,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to National Construction Auth,Variance,900232435,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to KNEC,Variance,6359035,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Meru University,Variance,252357,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Kenya Civil Aviation,Variance,269761619,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Kenya Meat Commission,Variance,1351622,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Maseno University,Variance,30877689,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to University of Kabianga,Variance,2356965,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Kenya Ports Authority,Variance,194061644,Note 21,Data Integrity Risk,45
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Kenya Bureau of Standards,Variance,21629815,Note 21,Data Integrity Risk,45
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Retirement Benefits Auth,Variance,7514426,Note 21,Data Integrity Risk,45
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Public Proc Reg Auth,Variance,917070,Note 21,Data Integrity Risk,45
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Kenya Industrial Property,Variance,657324,Note 21,Data Integrity Risk,45
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Gotu-Merti (C340-01A) Time Elapsed,Percentage,110.7,Percent,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Gotu-Merti (C340-01B) Time Elapsed,Percentage,110.7,Percent,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Isiolo-Mlango (C342-02A) Time Elapsed,Percentage,106.7,Percent,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Isiolo-Mlango (C342-02B) Time Elapsed,Percentage,110.7,Percent,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Marima-Makutano Time Elapsed,Percentage,114,Percent,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Materi-Kamarandi Time Elapsed,Percentage,114,Percent,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Itungururu-Kamaende Time Elapsed,Percentage,76,Percent,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Kachulu-Gotu Time Elapsed,Percentage,85,Percent,Behind Schedule,386
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (July),Count,32,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (August),Count,31,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (September),Count,12,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (October),Count,57,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (November),Count,50,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (December),Count,0,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (January),Count,40,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (February),Count,41,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (March),Count,40,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (April),Count,46,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (May),Count,46,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (June),Count,39,No,Employment Act,Staff Welfare,401
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Kenya Advanced Inst of Science,Audited_Expenditure,389082,USD,Basis Conclusion,Delay Interest,36
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,NICHE Program Payroll Variance,Variance,6209000,Ksh,Basis Conclusion,Fraud Risk,36
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,COVID-19 Health Response CCE,Audited_Expenditure,16038414,USD,Basis Conclusion,Lack of Training,37
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Sirari Corridor Road Rehab,Audited_Expenditure,228000000,USD,Basis Conclusion,Addendum Tenure,37
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Interest,Sirari Corridor Delay Interest,Loss,331130553,Ksh,Reg 14.8,Avoidable Cost,38
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Migori Market Cost Increase,Variance,144299340,Ksh,Reg 139,57% Sum Increase,38
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Athi Water Development Grant,Audited_Expenditure,61957305908,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Kenya Meat Commission Loan,Audited_Expenditure,940241100,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Kenyatta University Loan,Audited_Expenditure,10774498010,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Malindi Water Sewerage Co,Audited_Expenditure,1584270995,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Mumias Sugar Co Loan,Audited_Expenditure,3000000000,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Tavevo Water Sewerage Co,Audited_Expenditure,963550417,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Dormant Loans (13 Institutions),Arrears,25515108908,Ksh,Other Matter,Liquidity Risk,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Agro-Chemical and Food Co,Arrears,2941884000,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Halal Meat Products,Arrears,27701420,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,KDC-IDB Capital Limited,Arrears,590108567,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,KDC-Kenya Tourist Dev Corp,Arrears,48000000,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Kenya Urban Transport (Towns),Arrears,40706140,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Lake Basin Development Authority,Arrears,2000000000,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,National Irrigation Board,Arrears,1128486779,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,National Water Conservation,Arrears,2460874897,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Uchumi Supermarkets Ltd,Arrears,1200000000,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Water Resources Mgmt Authority,Arrears,362607995,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Defunct Entities (7 Entities),Arrears,7878958424,Ksh,Note 55,Capital Loss,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Agricultural Settlement Fund,Arrears,74461004,Ksh,Defunct List,Unrecoverable,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Local Government Loans Authority,Arrears,7594273720,Ksh,Defunct List,Unrecoverable,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Mombasa Pipeline Board,Arrears,22964980,Ksh,Defunct List,Unrecoverable,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Nairobi City Council,Arrears,102333760,Ksh,Defunct List,Unrecoverable,41
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Mumias Outgrowers Co,Arrears,16517400,Ksh,Defunct List,Unrecoverable,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,Ken-Ren Chemicals and Fertilizers,Arrears,72800000,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,Kenya Farmers Association,Arrears,20,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,National Agricultural Chemical,Arrears,41699960,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,Nyari Estate Limited,Arrears,50000,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,Kenya Poultry Limited,Arrears,20,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Reporting,Gap,Quarterly Financial Reports Failure,Risk,N/A,No,Reg 83,Reporting Breach,41
+1091,KeNHA,Fuel Levy (RMLF),Internal Control,Gap,Internal Audit Failure,Risk,N/A,No,Reg 73,Governance Breach,42
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Interest,Avoidable Commitment Fee (Undrawn),Loss,1079876429,Ksh,PFM Reg 193,Avoidable Cost,25
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Penalty,Late Interest and Penalty Fees,Loss,3139601,Ksh,Note 8,Fiscal Leakage,25
+1094,State Dept Housing,Affordable Housing,Remittance,Penalty,Delayed Arbitral Award Settlement,Liability,165980055,Ksh,Emphasis of Matter,Penalty Risk,400
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Kisumu Urban Project Advance Account,Arrears,2197909,Ksh,Emphasis of Matter,Idle Cash,411
+1094,State Dept Housing,Affordable Housing,Project,Remittance,Kisumu Urban Project Pending Bills,Arrears,31575700,Ksh,Emphasis of Matter,Long Outstanding,411
+1094,State Dept Housing,Affordable Housing,Reporting,Format,Failure to adopt IPSAS Accrual,Risk,N/A,No,Circular 03/2025,Regulatory Breach,282
+1094,State Dept Housing,Affordable Housing,Reporting,Data,AIA Variance KEMSA,Variance,6085164755,Ksh,Qualified Opinion,Data Mismatch,264
+1094,State Dept Housing,Affordable Housing,Reporting,Data,AIA Variance KEMRI,Variance,5274195385,Ksh,Qualified Opinion,Data Mismatch,264
+1094,State Dept Housing,Affordable Housing,Reporting,Data,AIA Variance KUTRRH,Variance,5277548,Ksh,Qualified Opinion,Data Mismatch,264
+1094,State Dept Housing,Affordable Housing,Revenue,Arrears,Social Health Authority (SHA) AIA,Arrears,Unknown,Ksh,Qualified Opinion,Mandate Opacity,264
+1094,State Dept Housing,Affordable Housing,Receivables,Debt,Social Health Authority Debt,Arrears,359103427,Ksh,Qualified Opinion,Undisclosed Asset,264
+1094,State Dept Housing,Affordable Housing,Cash,Variance,Equalisation Fund Account Balance,Variance,134152978,Ksh,Qualified Opinion,Data Opacity,264
+1094,State Dept Housing,Affordable Housing,Project,Reporting,Kisii Cancer Centre FS Failure,Risk,N/A,No,Qualified Opinion,Reporting Gap,265
+1094,State Dept Housing,Affordable Housing,Project,Reporting,NASCOP TLC-1DU Research FS Failure,Risk,N/A,No,Qualified Opinion,Reporting Gap,265
+1094,State Dept Housing,Affordable Housing,Budget,Control,Medical Services Over-expenditure,Variance,1090300055,Ksh,Emphasis of Matter,Fiscal Discipline,265
+1094,State Dept Housing,Affordable Housing,Legal,Court,Anti-malaria contract interest growth,Liability,15250000000,Ksh,Court Award 1995,Fiscal Risk,266
+1094,State Dept Housing,Affordable Housing,Levy,Vaccination,GAVI Grant Disclosure Failure,Variance,Unknown,Ksh,Note 782,Accounting Opacity,267
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Maternal Upgrading (6/20 done),Risk,N/A,No,Reg 74,Contract Delay,268
+1094,State Dept Housing,Affordable Housing,Revenue,Patient,Mathari Hospital Waived Bills,Loss,41764443,Ksh,Reg 66,Unapproved Waiver,268
+1094,State Dept Housing,Affordable Housing,Project,Stall,Equalisation Fund Stalled projects (20 No),Arrears,333037912,Ksh,Basis Conclusion,Capital Loss,269
+1094,State Dept Housing,Affordable Housing,Project,Stall,Pediatric Emergency Centre (KNH),Arrears,1099686586,Ksh,Basis Conclusion,Incomplete Project,269
+1094,State Dept Housing,Affordable Housing,Project,Stall,NEURpsychiatric Hospital (Ngong),Arrears,579150000,Ksh,Basis Conclusion,Non-commencement,269
+1094,State Dept Housing,Affordable Housing,Revenue,Sharing,Social Health Auth Pay-out ratio > 100%,Loss,N/A,No,Art 2(b) PPP Act,Unfavorable Terms,269
+1094,State Dept Housing,Affordable Housing,Project,PPP,Unapproved National Equipment Service,Risk,N/A,No,PPP Act 2021,Legal Breach,269
+1094,State Dept Housing,Affordable Housing,Project,Lease,Medical Equipment Lease Unbudgeted,Risk,N/A,No,Sec 53(8) PPAD,Fiscal Risk,270
+1094,State Dept Housing,Affordable Housing,Project,Audit,Internal Audit Failure (Global Fund),Risk,N/A,No,Sec 168,Governance Gap,74
+1094,State Dept Housing,Affordable Housing,Asset,Registry,Missing Asset Register (Global Fund),Risk,N/A,No,Reg 143,Internal Control,75
+1094,State Dept Housing,Affordable Housing,Reporting,Inaccuracy,Deferred Income Movement (ACE Project),Variance,2071911,Ksh,Qualified Opinion,Unexplained Gap,229
+1094,State Dept Housing,Affordable Housing,Reporting,Inaccuracy,Depreciation Expense (ACE Project),Variance,19597356,Ksh,Qualified Opinion,Incomplete Disclosure,229
+1094,State Dept Housing,Affordable Housing,Budget,Performance,ACE Project Under-funding,Variance,190934129,Ksh,Emphasis of Matter,Delivery Risk,229
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Isuzu Minibus down-payment delay,Risk,N/A,No,Contractual,Procurement Delay,218
+1094,State Dept Housing,Affordable Housing,Project,Implementation,CFAO Microbus ambulance non-delivery,Risk,N/A,No,Contractual,Value for Money,218
+1094,State Dept Housing,Affordable Housing,Remittance,Doubtful,Moi University Advanced Funds recovery,Arrears,12000000,Ksh,Qualified Opinion,Unauthorized Reallocation,232
+1094,State Dept Housing,Affordable Housing,Variance,Inaccuracy,Work in Progress omission (Moi Univ),Variance,342596,Ksh,Qualified Opinion,Understatement,233
+1094,State Dept Housing,Affordable Housing,Budget,Performance,PTRE Project Under-funding,Variance,233063920,Ksh,Emphasis of Matter,Delivery Risk,233
+1094,State Dept Housing,Affordable Housing,Budget,Performance,PTRE Project Over-expenditure,Variance,49055250,Ksh,Emphasis of Matter,Fiscal Discipline,233
+1094,State Dept Housing,Affordable Housing,Project,Scholarship,PhD Completion Delays (67% pending),Risk,N/A,No,Basis Conclusion,Health Goal Failure,234
+1094,State Dept Housing,Affordable Housing,Expenditure,Imprest,Unsurrendered Imprest (PTRE Project),Arrears,895644,Ksh,Reg 93,Legal Breach,234
+1094,State Dept Housing,Affordable Housing,Payables,Aging,Long Outstanding Creditors (PTRE),Arrears,6706498,Ksh,Reg 139,Liquidity Risk,235
+1094,State Dept Housing,Affordable Housing,Reporting,Format,Non-compliance with Chart of Accounts,Risk,N/A,No,PSASB,Regulatory Breach,235
+1094,State Dept Housing,Affordable Housing,Reporting,Climate,Failure to submit Climate Performance,Risk,N/A,No,Sec 15(5),Statutory Breach,235
+1071,The National Treasury,Affordable Housing,Remittance,Timing,e-Citizen Manual Settlement Lag,Variance,N/A,Days,Special Audit Mar 2025,Efficiency Loss,32
+1071,The National Treasury,Affordable Housing,Remittance,Timing,e-Citizen Manual Processing Errors,Risk,N/A,No,Special Audit Mar 2025,Security Risk,32
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Meru Univ,Variance,116828,Ksh,Note 21,Data Gap,45
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Chuka Univ,Variance,203041,Ksh,Note 21,Data Gap,44
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Tharaka Univ,Variance,3722086,Ksh,Note 21,Data Gap,44
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Maseno Univ,Variance,30877689,Ksh,Note 21,Data Gap,44
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Kabianga Univ,Variance,2356965,Ksh,Note 21,Data Gap,44
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Payable Variance Embu Univ,Variance,1419636,Ksh,Note 21,Data Gap,45
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Gotu-Merti (C340-01A) Physical Progress,Percentage,67.6,Percent,Note 10,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Gotu-Merti (C340-01B) Physical Progress,Percentage,60.8,Percent,Note 10,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Isiolo-Mlango (C342-02A) Physical Progress,Percentage,39.4,Percent,Note 10,Abandoned Site,384
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Isiolo-Mlango (C342-02B) Physical Progress,Percentage,89,Percent,Note 10,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Marima-Makutano Physical Progress,Percentage,87,Percent,Note 10,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Materi-Kamarandi Physical Progress,Percentage,96.7,Percent,Note 10,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Itungururu-Kamaende Physical Progress,Percentage,23,Percent,Note 10,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Kachulu-Gotu Physical Progress,Percentage,32,Percent,Note 10,Behind Schedule,386
+1094,State Dept Housing,Affordable Housing,Reporting,Data,Kwale County CRF Lagooned Funds,Variance,717435922,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,CWWDA Lagooned Funds,Variance,48750200,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,WSTF Lagooned Funds,Variance,53445,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,Kilifi County CRF Lagooned Funds,Variance,1551652334,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,Garissa County CRF Lagooned Funds,Variance,307864442,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,Taita Taveta CRF Lagooned Funds,Variance,610917826,Ksh,Reconciled Balance,Data Mismatch,460
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Water distribution works (Mtwapa Town),Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Watamu Town Lot 2B Contract,Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Faecal Sludge Plant (Watamu Lot 3B),Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Faecal Sludge Plant (Malindi Town),Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Mombasa Ablution Blocks,Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Mtwapa/Mtondia Sludge Facility,Risk,N/A,No,Abandoned,Capital Loss,451
+1094,State Dept Housing,Affordable Housing,Expenditure,Rent,Nyandarua Urban Support Lag,Variance,32309300,Ksh,Emphasis of Matter,Implementation Gap,374
+1094,State Dept Housing,Affordable Housing,Expenditure,Rent,Shipping Maritime Produced Assets rent,Variance,26435959,Ksh,Basis Conclusion,Lease Absence,386
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Kisumu Urban Project closure delay,Risk,N/A,No,Emphasis of Matter,Closure Lag,398
+1094,State Dept Housing,Affordable Housing,Remittance,Ineligible spend,AFD PWC Audit Ineligible Spend,Loss,111352253,Ksh,Basis Conclusion,Refund Failure,398
+1094,State Dept Housing,Affordable Housing,Reporting,Compliance,Nyeri Urban Support FS delay (38 days),Risk,N/A,No,Basis Conclusion,Deadline Breach,152
+1094,State Dept Housing,Affordable Housing,Expenditure,Hospitality,Nyeri County Headquarters hospitality,Loss,7998880,Ksh,Reg 210,Uneconomical Spend,152
+1094,State Dept Housing,Affordable Housing,Reporting,Template,Kirinyaga Urban Support FS errors,Risk,N/A,No,Qualified Opinion,Misrepresentation,153
+1094,State Dept Housing,Affordable Housing,Remittance,County CRF,Kirinyaga Institutional Grants lag,Variance,37500000,Ksh,Basis Conclusion,Delayed Release,154
+1094,State Dept Housing,Affordable Housing,Project,Planning,Kirinyaga Stakeholder Engagement Plan missing,Risk,N/A,No,Basis Conclusion,Governance Weakness,155
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Nanyuki 132kV Underground Delay,Risk,N/A,No,Note 1805,553 Day gap,560
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Variance,Nanyuki Additional Budget Request,Variance,2000000,USD,Note 1806,Budget Deficit,560
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Interest,Last Mile Connectivity I commitment charge,Loss,6309750,Ksh,Basis Conclusion,Resource Wastage,463
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Gatundu Water Sewerage 33 Month Delay,Risk,N/A,No,Note 1484,EOT Overrun,463
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Compliance,Gatundu Land Acquisition under-remittance,Variance,327462128,Ksh,Note 1484,Funding Gap,463
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Kitui/Matuu Last Mile (Stalled 36%),Arrears,153344130,Ksh,Note 1485,Genuine Guarantee Failure,464
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Leakage,Kitui/Matuu Unrecovered Advance,Loss,32801599,USD,Note 1485,Genuine Guarantee Failure,464
+1091,KeNHA,Fuel Levy (RMLF),Project,Stall,Machakos Earth Embankment Dam,Loss,150151128,Ksh,Note 1486,Land Dispute,464
+1071,The National Treasury,Affordable Housing,Expenditure,Ineligible,Kenya Informal Settlement IBRD Refund,Arrears,5669894,EUR,Emphasis of Matter,Closure Lag,396
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Delay,Barabara Plaza Electrical Works (51% progress),Risk,N/A,No,Note 983,Behind Schedule,314
+1091,KeRRA,Fuel Levy (RMLF),Project,Delay,10TH EDF Rural Roads (12 Years),Risk,N/A,No,Note 1181,Non-completion,363
+1091,KeRRA,Fuel Levy (RMLF),Expenditure,Overfunding,Western Kenya Market Infra (Counterpart),Variance,354978653,Ksh,Qualified Opinion,Accounting Failure,365
+1091,KeRRA,Fuel Levy (RMLF),Project,Implementation,Mbeu Grain Drying Facility (Londiani),Risk,N/A,No,Note 1987.3,Delayed Transport,622
+1091,KeRRA,Fuel Levy (RMLF),Expenditure,Variance,Kibiru Feedlot Measured Works Variance,Variance,7668450,Ksh,Note 1903,Non-execution,590
+1091,KeRRA,Fuel Levy (RMLF),Expenditure,Variance,Kibiru Feedlot General Store Defects,Risk,N/A,No,Note 1903,Poor Workmanship,590
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (January),Count,32,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (February),Count,31,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (March),Count,12,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (April),Count,57,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (May),Count,50,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (June),Count,0,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,Remittance,Leakage,Unremitted Rent Revenue (Housing),Arrears,23625450,Ksh,Note 1275,Collection Failure,388
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Nanyuki 132kV Underground Cable,Audited_Expenditure,963354781,Ksh,Note 1802,Unexplained Excess,559
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Nanyuki-Rumuruti (AfDB Portion),Audited_Expenditure,635261689,Ksh,Note 1802,Data Inconsistency,559
+1091,KeNHA,Fuel Levy (RMLF),Reporting,Compliance,Mariakani Substation FS Errors (Page numbering),Risk,N/A,No,Note 1804,Format Breach,559
+1091,KeNHA,Fuel Levy (RMLF),Reporting,Compliance,Mariakani Substation FS Errors (Currency ref),Risk,N/A,No,Note 1804,Format Breach,559
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Variance,Last Mile Connectivity I Budget Discrepancy,Variance,28012000,Ksh,Basis Conclusion,Unapproved Spend,561
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Payables,Last Mile I Terminated Contract Bills,Arrears,89062000,Ksh,Basis Conclusion,Arbitration Delay,562
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Last Mile I Lot B1 Progress,Percentage,45,Percent,Note 1813,Behind Schedule,562
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Last Mile I Lot B2 Progress,Percentage,52,Percent,Note 1813,Behind Schedule,562
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Last Mile I Lot B3 Progress,Percentage,61,Percent,Note 1813,Behind Schedule,562
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Interest,Last Mile I Avoidable Interest,Loss,N/A,No,Note 1811,Fiscal Leakage,561
+1011,Executive Office President,Affordable Housing,Remittance,Compliance,Housing Levy Deducted but not remitted (Lottery Board),Arrears,114648159,Sec 21(1) Nat Lottery,Legal Breach,94
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Interest,KOSAP Commitment Fees (98% undrawn),Loss,22974867,Ksh,Note 1874,Avoidable Cost,579
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,KOSAP Mini-grids (31/57 target),Percentage,54,Percent,Note 1873,Target Failure,579
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Kenya Electricity Expansion (OPEC),Audited_Expenditure,1162772688,Ksh,Emphasis of Matter,23% Undrawn,593
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,KEEP Install Count (72% progress),Percentage,72,Percent,Note 1879,Time Lapse 97%,593
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Nkoisusu Market (4 year delay),Risk,N/A,No,Note 1884,Contractor Absence,595
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Kaluli Market (No power connection),Risk,N/A,No,Note 1885,Under-utilization,595
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Muthungutha Village (47 unconnected),Risk,N/A,No,Note 1886,Target Failure,595
+1091,KeNHA,Fuel Levy (RMLF),Variance,Target,KEEP expected connections variance,Variance,296665,No,Note 1887,Feasibility Gap,596
+1109,State Dept Water,Fuel Levy (RMLF),Remittance,Interest,Mwache Dam Delayed Payment Interest,Loss,468137276,Ksh,Note 1420,Avoidable Cost,442
+1109,State Dept Water,Fuel Levy (RMLF),Expenditure,Project,Mwache Dam Variation Orders,Variance,4014677115,Ksh,Note 1422,Cost Overrun,443
+1109,State Dept Water,Fuel Levy (RMLF),Expenditure,Project,Mwache Dam Price Adjustment,Variance,5270275261,Ksh,Note 1422,Cost Overrun,443
+1109,State Dept Water,Fuel Levy (RMLF),Internal Control,Audit,Mwache Dam Internal Audit Failure,Risk,N/A,No,Sec 73,Governance Gap,42
+1109,State Dept Water,Fuel Levy (RMLF),Asset,Registry,Mwache Dam Asset Registry missing,Risk,N/A,No,Reg 143,Internal Control,42
+1109,State Dept Water,Fuel Levy (RMLF),Remittance,Interest,Waitiki-Likoni Interest Charge,Loss,190095316,Ksh,Note 1359.2,Avoidable Cost,427
+1109,State Dept Water,Fuel Levy (RMLF),Project,Stall,Mwache Dam (41% Progress),Percentage,41,Percent,Note 1364.1,Behind Schedule,433
+1094,State Dept Housing,Affordable Housing,Remittance,County,County Revenue Fund (Kiambu) non-transfer,Variance,264543092,Reg 83,Mandate Overlap,402
+1094,State Dept Housing,Affordable Housing,Remittance,County,County Revenue Fund (Nairobi) non-transfer,Variance,260000000,Reg 83,Mandate Overlap,403
+1094,State Dept Housing,Affordable Housing,Remittance,County,County Revenue Fund (Taita Taveta) non-transfer,Variance,26321755,Reg 83,Mandate Overlap,403
+1094,State Dept Housing,Affordable Housing,Remittance,County,Kilifi County non-transfer to SPA,Variance,717435922,Reg 83,Governance Breach,460
+1094,State Dept Housing,Affordable Housing,Remittance,County,Garissa County non-transfer to SPA,Variance,307864442,Reg 83,Governance Breach,460
+1094,State Dept Housing,Affordable Housing,Remittance,County,Wajir County non-transfer to SPA,Variance,610917826,Reg 83,Governance Breach,460
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Nyandarua Housing Project Receipt Delay,Arrears,32309300,Ksh,Emphasis of Matter,Non-implementation,374
+1094,State Dept Housing,Affordable Housing,Expenditure,Rent,National Social Security Fund Rent overpayment,Loss,24849324,Ksh,Basis Conclusion,Fiscal Leakage,388
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Gotu-Merti (C340-01A) Physical Progress,Percentage,67.6,Percent,Behind Schedule,RMLF,384
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Gotu-Merti (C340-01B) Physical Progress,Percentage,60.8,Percent,Behind Schedule,RMLF,384
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Isiolo-Mlango (C342-02A) Physical Progress,Percentage,39.4,Percent,Behind Schedule,RMLF,384
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Marima-Makutano Physical Progress,Percentage,87,Percent,Behind Schedule,RMLF,385
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Materi-Kamarandi Physical Progress,Percentage,96.7,Percent,Behind Schedule,RMLF,385
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Itungururu-Kamaende Physical Progress,Percentage,23,Percent,Behind Schedule,RMLF,385
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Kachulu-Gotu Physical Progress,Percentage,32,Percent,Behind Schedule,RMLF,386
+1094,State Dept for Housing,Affordable Housing,Project,Implementation,Kisumu Urban Project Bank Charge,Loss,1200,Ksh,Emphasis of Matter,Idle Cash,411
+1094,State Dept for Housing,Affordable Housing,Remittance,Compliance,Housing Levy Deducted but not remitted (EAC),Revenue_Leakage,122615743,Housing Act 2024,Non-remittance,746
+1094,State Dept for Housing,Affordable Housing,Remittance,Compliance,Housing Levy Deducted but not remitted (Social Protection),Revenue_Leakage,12034782,Housing Act 2024,Non-remittance,702
+1094,State Dept for Housing,Affordable Housing,Remittance,Compliance,Housing Levy Deducted but not remitted (State Law Office),Revenue_Leakage,3713128,Housing Act 2024,Non-remittance,752
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Variance,Ksh 175B Loan Financing Deficit,Variance,492123199768,Sec 2 PFM,Fiscal Deficit,23
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Variance,Domestic vs External Borrowing Ratio (70:30),Variance,N/A,Ratio,MTDS Strategy,Strategic Breach,23
+1071,The National Treasury,Affordable Housing,Variance,Inaccuracy,e-Citizen Unspecified prior year balance,Variance,145824907,Note 26,Data Opacity,43
+1071,The National Treasury,Affordable Housing,Variance,Inaccuracy,e-Citizen Receipts from opening payables,Variance,4912502229,Note 26,Cash Flow Risk,43
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Kenya Airports Authority,Variance,2471120,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to National Construction Auth,Variance,900232435,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to KNEC,Variance,6359035,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Meru University,Variance,252357,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Kenya Civil Aviation,Variance,269761619,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Kenya Meat Commission,Variance,1351622,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Maseno University,Variance,30877689,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to University of Kabianga,Variance,2356965,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Kenya Ports Authority,Variance,194061644,Note 21,Data Integrity Risk,45
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Kenya Bureau of Standards,Variance,21629815,Note 21,Data Integrity Risk,45
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Retirement Benefits Auth,Variance,7514426,Note 21,Data Integrity Risk,45
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Public Proc Reg Auth,Variance,917070,Note 21,Data Integrity Risk,45
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Kenya Industrial Property,Variance,657324,Note 21,Data Integrity Risk,45
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Gotu-Merti (C340-01A) Time Elapsed,Percentage,110.7,Percent,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Gotu-Merti (C340-01B) Time Elapsed,Percentage,110.7,Percent,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Isiolo-Mlango (C342-02A) Time Elapsed,Percentage,106.7,Percent,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Isiolo-Mlango (C342-02B) Time Elapsed,Percentage,110.7,Percent,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Marima-Makutano Time Elapsed,Percentage,114,Percent,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Materi-Kamarandi Time Elapsed,Percentage,114,Percent,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Itungururu-Kamaende Time Elapsed,Percentage,76,Percent,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Kachulu-Gotu Time Elapsed,Percentage,85,Percent,Behind Schedule,386
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (July),Count,32,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (August),Count,31,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (September),Count,12,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (October),Count,57,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (November),Count,50,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (December),Count,0,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (January),Count,40,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (February),Count,41,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (March),Count,40,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (April),Count,46,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (May),Count,46,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (June),Count,39,No,Employment Act,Staff Welfare,401
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Kenya Advanced Inst of Science,Audited_Expenditure,389082,USD,Basis Conclusion,Delay Interest,36
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,NICHE Program Payroll Variance,Variance,6209000,Ksh,Basis Conclusion,Fraud Risk,36
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,COVID-19 Health Response CCE,Audited_Expenditure,16038414,USD,Basis Conclusion,Lack of Training,37
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Sirari Corridor Road Rehab,Audited_Expenditure,228000000,USD,Basis Conclusion,Addendum Tenure,37
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Interest,Sirari Corridor Delay Interest,Loss,331130553,Ksh,Reg 14.8,Avoidable Cost,38
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Migori Market Cost Increase,Variance,144299340,Ksh,Reg 139,57% Sum Increase,38
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Athi Water Development Grant,Audited_Expenditure,61957305908,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Kenya Meat Commission Loan,Audited_Expenditure,940241100,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Kenyatta University Loan,Audited_Expenditure,10774498010,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Malindi Water Sewerage Co,Audited_Expenditure,1584270995,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Mumias Sugar Co Loan,Audited_Expenditure,3000000000,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Tavevo Water Sewerage Co,Audited_Expenditure,963550417,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Dormant Loans (13 Institutions),Arrears,25515108908,Ksh,Other Matter,Liquidity Risk,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Agro-Chemical and Food Co,Arrears,2941884000,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Halal Meat Products,Arrears,27701420,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,KDC-IDB Capital Limited,Arrears,590108567,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,KDC-Kenya Tourist Dev Corp,Arrears,48000000,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Kenya Urban Transport (Towns),Arrears,40706140,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Lake Basin Development Authority,Arrears,2000000000,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,National Irrigation Board,Arrears,1128486779,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,National Water Conservation,Arrears,2460874897,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Uchumi Supermarkets Ltd,Arrears,1200000000,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Water Resources Mgmt Authority,Arrears,362607995,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Defunct Entities (7 Entities),Arrears,7878958424,Ksh,Note 55,Capital Loss,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Agricultural Settlement Fund,Arrears,74461004,Ksh,Defunct List,Unrecoverable,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Local Government Loans Authority,Arrears,7594273720,Ksh,Defunct List,Unrecoverable,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Mombasa Pipeline Board,Arrears,22964980,Ksh,Defunct List,Unrecoverable,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Nairobi City Council,Arrears,102333760,Ksh,Defunct List,Unrecoverable,41
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Mumias Outgrowers Co,Arrears,16517400,Ksh,Defunct List,Unrecoverable,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,Ken-Ren Chemicals and Fertilizers,Arrears,72800000,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,Kenya Farmers Association,Arrears,20,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,National Agricultural Chemical,Arrears,41699960,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,Nyari Estate Limited,Arrears,50000,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,Kenya Poultry Limited,Arrears,20,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Reporting,Gap,Quarterly Financial Reports Failure,Risk,N/A,No,Reg 83,Reporting Breach,41
+1091,KeNHA,Fuel Levy (RMLF),Internal Control,Gap,Internal Audit Failure,Risk,N/A,No,Reg 73,Governance Breach,42
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Interest,Avoidable Commitment Fee (Undrawn),Loss,1079876429,Ksh,PFM Reg 193,Avoidable Cost,25
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Penalty,Late Interest and Penalty Fees,Loss,3139601,Ksh,Note 8,Fiscal Leakage,25
+1094,State Dept Housing,Affordable Housing,Remittance,Penalty,Delayed Arbitral Award Settlement,Liability,165980055,Ksh,Emphasis of Matter,Penalty Risk,400
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Kisumu Urban Project Advance Account,Arrears,2197909,Ksh,Emphasis of Matter,Idle Cash,411
+1094,State Dept Housing,Affordable Housing,Project,Remittance,Kisumu Urban Project Pending Bills,Arrears,31575700,Ksh,Emphasis of Matter,Long Outstanding,411
+1094,State Dept Housing,Affordable Housing,Reporting,Format,Failure to adopt IPSAS Accrual,Risk,N/A,No,Circular 03/2025,Regulatory Breach,282
+1094,State Dept Housing,Affordable Housing,Reporting,Data,AIA Variance KEMSA,Variance,6085164755,Ksh,Qualified Opinion,Data Mismatch,264
+1094,State Dept Housing,Affordable Housing,Reporting,Data,AIA Variance KEMRI,Variance,5274195385,Ksh,Qualified Opinion,Data Mismatch,264
+1094,State Dept Housing,Affordable Housing,Reporting,Data,AIA Variance KUTRRH,Variance,5277548,Ksh,Qualified Opinion,Data Mismatch,264
+1094,State Dept Housing,Affordable Housing,Revenue,Arrears,Social Health Authority (SHA) AIA,Arrears,Unknown,Ksh,Qualified Opinion,Mandate Opacity,264
+1094,State Dept Housing,Affordable Housing,Receivables,Debt,Social Health Authority Debt,Arrears,359103427,Ksh,Qualified Opinion,Undisclosed Asset,264
+1094,State Dept Housing,Affordable Housing,Cash,Variance,Equalisation Fund Account Balance,Variance,134152978,Ksh,Qualified Opinion,Data Opacity,264
+1094,State Dept Housing,Affordable Housing,Project,Reporting,Kisii Cancer Centre FS Failure,Risk,N/A,No,Qualified Opinion,Reporting Gap,265
+1094,State Dept Housing,Affordable Housing,Project,Reporting,NASCOP TLC-1DU Research FS Failure,Risk,N/A,No,Qualified Opinion,Reporting Gap,265
+1094,State Dept Housing,Affordable Housing,Budget,Control,Medical Services Over-expenditure,Variance,1090300055,Ksh,Emphasis of Matter,Fiscal Discipline,265
+1094,State Dept Housing,Affordable Housing,Legal,Court,Anti-malaria contract interest growth,Liability,15250000000,Ksh,Court Award 1995,Fiscal Risk,266
+1094,State Dept Housing,Affordable Housing,Levy,Vaccination,GAVI Grant Disclosure Failure,Variance,Unknown,Ksh,Note 782,Accounting Opacity,267
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Maternal Upgrading (6/20 done),Risk,N/A,No,Reg 74,Contract Delay,268
+1094,State Dept Housing,Affordable Housing,Revenue,Patient,Mathari Hospital Waived Bills,Loss,41764443,Ksh,Reg 66,Unapproved Waiver,268
+1094,State Dept Housing,Affordable Housing,Project,Stall,Equalisation Fund Stalled projects (20 No),Arrears,333037912,Ksh,Basis Conclusion,Capital Loss,269
+1094,State Dept Housing,Affordable Housing,Project,Stall,Pediatric Emergency Centre (KNH),Arrears,1099686586,Ksh,Basis Conclusion,Incomplete Project,269
+1094,State Dept Housing,Affordable Housing,Project,Stall,NEURpsychiatric Hospital (Ngong),Arrears,579150000,Ksh,Basis Conclusion,Non-commencement,269
+1094,State Dept Housing,Affordable Housing,Revenue,Sharing,Social Health Auth Pay-out ratio > 100%,Loss,N/A,No,Art 2(b) PPP Act,Unfavorable Terms,269
+1094,State Dept Housing,Affordable Housing,Project,PPP,Unapproved National Equipment Service,Risk,N/A,No,PPP Act 2021,Legal Breach,269
+1094,State Dept Housing,Affordable Housing,Project,Lease,Medical Equipment Lease Unbudgeted,Risk,N/A,No,Sec 53(8) PPAD,Fiscal Risk,270
+1094,State Dept Housing,Affordable Housing,Project,Audit,Internal Audit Failure (Global Fund),Risk,N/A,No,Sec 168,Governance Gap,74
+1094,State Dept Housing,Affordable Housing,Asset,Registry,Missing Asset Register (Global Fund),Risk,N/A,No,Reg 143,Internal Control,75
+1094,State Dept Housing,Affordable Housing,Reporting,Inaccuracy,Deferred Income Movement (ACE Project),Variance,2071911,Ksh,Qualified Opinion,Unexplained Gap,229
+1094,State Dept Housing,Affordable Housing,Reporting,Inaccuracy,Depreciation Expense (ACE Project),Variance,19597356,Ksh,Qualified Opinion,Incomplete Disclosure,229
+1094,State Dept Housing,Affordable Housing,Budget,Performance,ACE Project Under-funding,Variance,190934129,Ksh,Emphasis of Matter,Delivery Risk,229
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Isuzu Minibus down-payment delay,Risk,N/A,No,Contractual,Procurement Delay,218
+1094,State Dept Housing,Affordable Housing,Project,Implementation,CFAO Microbus ambulance non-delivery,Risk,N/A,No,Contractual,Value for Money,218
+1094,State Dept Housing,Affordable Housing,Remittance,Doubtful,Moi University Advanced Funds recovery,Arrears,12000000,Ksh,Qualified Opinion,Unauthorized Reallocation,232
+1094,State Dept Housing,Affordable Housing,Variance,Inaccuracy,Work in Progress omission (Moi Univ),Variance,342596,Ksh,Qualified Opinion,Understatement,233
+1094,State Dept Housing,Affordable Housing,Budget,Performance,PTRE Project Under-funding,Variance,233063920,Ksh,Emphasis of Matter,Delivery Risk,233
+1094,State Dept Housing,Affordable Housing,Budget,Performance,PTRE Project Over-expenditure,Variance,49055250,Ksh,Emphasis of Matter,Fiscal Discipline,233
+1094,State Dept Housing,Affordable Housing,Project,Scholarship,PhD Completion Delays (67% pending),Risk,N/A,No,Basis Conclusion,Health Goal Failure,234
+1094,State Dept Housing,Affordable Housing,Expenditure,Imprest,Unsurrendered Imprest (PTRE Project),Arrears,895644,Ksh,Reg 93,Legal Breach,234
+1094,State Dept Housing,Affordable Housing,Payables,Aging,Long Outstanding Creditors (PTRE),Arrears,6706498,Ksh,Reg 139,Liquidity Risk,235
+1094,State Dept Housing,Affordable Housing,Reporting,Format,Non-compliance with Chart of Accounts,Risk,N/A,No,PSASB,Regulatory Breach,235
+1094,State Dept Housing,Affordable Housing,Reporting,Climate,Failure to submit Climate Performance,Risk,N/A,No,Sec 15(5),Statutory Breach,235
+1071,The National Treasury,Affordable Housing,Remittance,Timing,e-Citizen Manual Settlement Lag,Variance,N/A,Days,Special Audit Mar 2025,Efficiency Loss,32
+1071,The National Treasury,Affordable Housing,Remittance,Timing,e-Citizen Manual Processing Errors,Risk,N/A,No,Special Audit Mar 2025,Security Risk,32
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Meru Univ,Variance,116828,Ksh,Note 21,Data Gap,45
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Chuka Univ,Variance,203041,Ksh,Note 21,Data Gap,44
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Tharaka Univ,Variance,3722086,Ksh,Note 21,Data Gap,44
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Maseno Univ,Variance,30877689,Ksh,Note 21,Data Gap,44
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Kabianga Univ,Variance,2356965,Ksh,Note 21,Data Gap,44
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Payable Variance Embu Univ,Variance,1419636,Ksh,Note 21,Data Gap,45
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Gotu-Merti (C340-01A) Physical Progress,Percentage,67.6,Percent,Note 10,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Gotu-Merti (C340-01B) Physical Progress,Percentage,60.8,Percent,Note 10,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Isiolo-Mlango (C342-02A) Physical Progress,Percentage,39.4,Percent,Note 10,Abandoned Site,384
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Isiolo-Mlango (C342-02B) Physical Progress,Percentage,89,Percent,Note 10,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Marima-Makutano Physical Progress,Percentage,87,Percent,Note 10,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Materi-Kamarandi Physical Progress,Percentage,96.7,Percent,Note 10,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Itungururu-Kamaende Physical Progress,Percentage,23,Percent,Note 10,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Kachulu-Gotu Physical Progress,Percentage,32,Percent,Note 10,Behind Schedule,386
+1094,State Dept Housing,Affordable Housing,Reporting,Data,Kwale County CRF Lagooned Funds,Variance,717435922,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,CWWDA Lagooned Funds,Variance,48750200,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,WSTF Lagooned Funds,Variance,53445,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,Kilifi County CRF Lagooned Funds,Variance,1551652334,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,Garissa County CRF Lagooned Funds,Variance,307864442,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,Taita Taveta CRF Lagooned Funds,Variance,610917826,Ksh,Reconciled Balance,Data Mismatch,460
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Water distribution works (Mtwapa Town),Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Watamu Town Lot 2B Contract,Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Faecal Sludge Plant (Watamu Lot 3B),Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Faecal Sludge Plant (Malindi Town),Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Mombasa Ablution Blocks,Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Mtwapa/Mtondia Sludge Facility,Risk,N/A,No,Abandoned,Capital Loss,451
+1094,State Dept Housing,Affordable Housing,Expenditure,Rent,Nyandarua Urban Support Lag,Variance,32309300,Ksh,Emphasis of Matter,Implementation Gap,374
+1094,State Dept Housing,Affordable Housing,Expenditure,Rent,Shipping Maritime Produced Assets rent,Variance,26435959,Ksh,Basis Conclusion,Lease Absence,386
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Kisumu Urban Project closure delay,Risk,N/A,No,Emphasis of Matter,Closure Lag,398
+1094,State Dept Housing,Affordable Housing,Remittance,Ineligible spend,AFD PWC Audit Ineligible Spend,Loss,111352253,Ksh,Basis Conclusion,Refund Failure,398
+1094,State Dept Housing,Affordable Housing,Reporting,Compliance,Nyeri Urban Support FS delay (38 days),Risk,N/A,No,Basis Conclusion,Deadline Breach,152
+1094,State Dept Housing,Affordable Housing,Expenditure,Hospitality,Nyeri County Headquarters hospitality,Loss,7998880,Ksh,Reg 210,Uneconomical Spend,152
+1094,State Dept Housing,Affordable Housing,Reporting,Template,Kirinyaga Urban Support FS errors,Risk,N/A,No,Qualified Opinion,Misrepresentation,153
+1094,State Dept Housing,Affordable Housing,Remittance,County CRF,Kirinyaga Institutional Grants lag,Variance,37500000,Ksh,Basis Conclusion,Delayed Release,154
+1094,State Dept Housing,Affordable Housing,Project,Planning,Kirinyaga Stakeholder Engagement Plan missing,Risk,N/A,No,Basis Conclusion,Governance Weakness,155
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Nanyuki 132kV Underground Delay,Risk,N/A,No,Note 1805,553 Day gap,560
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Variance,Nanyuki Additional Budget Request,Variance,2000000,USD,Note 1806,Budget Deficit,560
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Interest,Last Mile Connectivity I commitment charge,Loss,6309750,Ksh,Basis Conclusion,Resource Wastage,463
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Gatundu Water Sewerage 33 Month Delay,Risk,N/A,No,Note 1484,EOT Overrun,463
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Compliance,Gatundu Land Acquisition under-remittance,Variance,327462128,Ksh,Note 1484,Funding Gap,463
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Kitui/Matuu Last Mile (Stalled 36%),Arrears,153344130,Ksh,Note 1485,Genuine Guarantee Failure,464
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Leakage,Kitui/Matuu Unrecovered Advance,Loss,32801599,USD,Note 1485,Genuine Guarantee Failure,464
+1091,KeNHA,Fuel Levy (RMLF),Project,Stall,Machakos Earth Embankment Dam,Loss,150151128,Ksh,Note 1486,Land Dispute,464
+1071,The National Treasury,Affordable Housing,Expenditure,Ineligible,Kenya Informal Settlement IBRD Refund,Arrears,5669894,EUR,Emphasis of Matter,Closure Lag,396
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Delay,Barabara Plaza Electrical Works (51% progress),Risk,N/A,No,Note 983,Behind Schedule,314
+1091,KeRRA,Fuel Levy (RMLF),Project,Delay,10TH EDF Rural Roads (12 Years),Risk,N/A,No,Note 1181,Non-completion,363
+1091,KeRRA,Fuel Levy (RMLF),Expenditure,Overfunding,Western Kenya Market Infra (Counterpart),Variance,354978653,Ksh,Qualified Opinion,Accounting Failure,365
+1091,KeRRA,Fuel Levy (RMLF),Project,Implementation,Mbeu Grain Drying Facility (Londiani),Risk,N/A,No,Note 1987.3,Delayed Transport,622
+1091,KeRRA,Fuel Levy (RMLF),Expenditure,Variance,Kibiru Feedlot Measured Works Variance,Variance,7668450,Ksh,Note 1903,Non-execution,590
+1091,KeRRA,Fuel Levy (RMLF),Expenditure,Variance,Kibiru Feedlot General Store Defects,Risk,N/A,No,Note 1903,Poor Workmanship,590
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (January),Count,32,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (February),Count,31,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (March),Count,12,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (April),Count,57,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (May),Count,50,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (June),Count,0,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,Remittance,Leakage,Unremitted Rent Revenue (Housing),Arrears,23625450,Ksh,Note 1275,Collection Failure,388
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Nanyuki 132kV Underground Cable,Audited_Expenditure,963354781,Ksh,Note 1802,Unexplained Excess,559
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Nanyuki-Rumuruti (AfDB Portion),Audited_Expenditure,635261689,Ksh,Note 1802,Data Inconsistency,559
+1091,KeNHA,Fuel Levy (RMLF),Reporting,Compliance,Mariakani Substation FS Errors (Page numbering),Risk,N/A,No,Note 1804,Format Breach,559
+1091,KeNHA,Fuel Levy (RMLF),Reporting,Compliance,Mariakani Substation FS Errors (Currency ref),Risk,N/A,No,Note 1804,Format Breach,559
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Variance,Last Mile Connectivity I Budget Discrepancy,Variance,28012000,Ksh,Basis Conclusion,Unapproved Spend,561
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Payables,Last Mile I Terminated Contract Bills,Arrears,89062000,Ksh,Basis Conclusion,Arbitration Delay,562
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Last Mile I Lot B1 Progress,Percentage,45,Percent,Note 1813,Behind Schedule,562
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Last Mile I Lot B2 Progress,Percentage,52,Percent,Note 1813,Behind Schedule,562
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Last Mile I Lot B3 Progress,Percentage,61,Percent,Note 1813,Behind Schedule,562
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Interest,Last Mile I Avoidable Interest,Loss,N/A,No,Note 1811,Fiscal Leakage,561
+1011,Executive Office President,Affordable Housing,Remittance,Compliance,Housing Levy Deducted but not remitted (Lottery Board),Arrears,114648159,Sec 21(1) Nat Lottery,Legal Breach,94
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Interest,KOSAP Commitment Fees (98% undrawn),Loss,22974867,Ksh,Note 1874,Avoidable Cost,579
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,KOSAP Mini-grids (31/57 target),Percentage,54,Percent,Note 1873,Target Failure,579
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Kenya Electricity Expansion (OPEC),Audited_Expenditure,1162772688,Ksh,Emphasis of Matter,23% Undrawn,593
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,KEEP Install Count (72% progress),Percentage,72,Percent,Note 1879,Time Lapse 97%,593
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Nkoisusu Market (4 year delay),Risk,N/A,No,Note 1884,Contractor Absence,595
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Kaluli Market (No power connection),Risk,N/A,No,Note 1885,Under-utilization,595
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Muthungutha Village (47 unconnected),Risk,N/A,No,Note 1886,Target Failure,595
+1091,KeNHA,Fuel Levy (RMLF),Variance,Target,KEEP expected connections variance,Variance,296665,No,Note 1887,Feasibility Gap,596
+1109,State Dept Water,Fuel Levy (RMLF),Remittance,Interest,Mwache Dam Delayed Payment Interest,Loss,468137276,Ksh,Note 1420,Avoidable Cost,442
+1109,State Dept Water,Fuel Levy (RMLF),Expenditure,Project,Mwache Dam Variation Orders,Variance,4014677115,Ksh,Note 1422,Cost Overrun,443
+1109,State Dept Water,Fuel Levy (RMLF),Expenditure,Project,Mwache Dam Price Adjustment,Variance,5270275261,Ksh,Note 1422,Cost Overrun,443
+1109,State Dept Water,Fuel Levy (RMLF),Internal Control,Audit,Mwache Dam Internal Audit Failure,Risk,N/A,No,Sec 73,Governance Gap,42
+1109,State Dept Water,Fuel Levy (RMLF),Asset,Registry,Mwache Dam Asset Registry missing,Risk,N/A,No,Reg 143,Internal Control,42
+1109,State Dept Water,Fuel Levy (RMLF),Remittance,Interest,Waitiki-Likoni Interest Charge,Loss,190095316,Ksh,Note 1359.2,Avoidable Cost,427
+1109,State Dept Water,Fuel Levy (RMLF),Project,Stall,Mwache Dam (41% Progress),Percentage,41,Percent,Note 1364.1,Behind Schedule,433
+1094,State Dept Housing,Affordable Housing,Remittance,County,County Revenue Fund (Kiambu) non-transfer,Variance,264543092,Reg 83,Mandate Overlap,402
+1094,State Dept Housing,Affordable Housing,Remittance,County,County Revenue Fund (Nairobi) non-transfer,Variance,260000000,Reg 83,Mandate Overlap,403
+1094,State Dept Housing,Affordable Housing,Remittance,County,County Revenue Fund (Taita Taveta) non-transfer,Variance,26321755,Reg 83,Mandate Overlap,403
+1094,State Dept Housing,Affordable Housing,Remittance,County,Kilifi County non-transfer to SPA,Variance,717435922,Reg 83,Governance Breach,460
+1094,State Dept Housing,Affordable Housing,Remittance,County,Garissa County non-transfer to SPA,Variance,307864442,Reg 83,Governance Breach,460
+1094,State Dept Housing,Affordable Housing,Remittance,County,Wajir County non-transfer to SPA,Variance,610917826,Reg 83,Governance Breach,460
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Nyandarua Housing Project Receipt Delay,Arrears,32309300,Ksh,Emphasis of Matter,Non-implementation,374
+1094,State Dept Housing,Affordable Housing,Expenditure,Rent,National Social Security Fund Rent overpayment,Loss,24849324,Ksh,Basis Conclusion,Fiscal Leakage,388
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Gotu-Merti (C340-01A) Physical Progress,Percentage,67.6,Percent,Behind Schedule,RMLF,384
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Gotu-Merti (C340-01B) Physical Progress,Percentage,60.8,Percent,Behind Schedule,RMLF,384
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Isiolo-Mlango (C342-02A) Physical Progress,Percentage,39.4,Percent,Behind Schedule,RMLF,384
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Marima-Makutano Physical Progress,Percentage,87,Percent,Behind Schedule,RMLF,385
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Materi-Kamarandi Physical Progress,Percentage,96.7,Percent,Behind Schedule,RMLF,385
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Itungururu-Kamaende Physical Progress,Percentage,23,Percent,Behind Schedule,RMLF,385
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Kachulu-Gotu Physical Progress,Percentage,32,Percent,Behind Schedule,RMLF,386
+1094,State Dept for Housing,Affordable Housing,Project,Implementation,Kisumu Urban Project Bank Charge,Loss,1200,Ksh,Emphasis of Matter,Idle Cash,411
+1094,State Dept for Housing,Affordable Housing,Remittance,Compliance,Housing Levy Deducted but not remitted (EAC),Revenue_Leakage,122615743,Housing Act 2024,Non-remittance,746
+1094,State Dept for Housing,Affordable Housing,Remittance,Compliance,Housing Levy Deducted but not remitted (Social Protection),Revenue_Leakage,12034782,Housing Act 2024,Non-remittance,702
+1094,State Dept for Housing,Affordable Housing,Remittance,Compliance,Housing Levy Deducted but not remitted (State Law Office),Revenue_Leakage,3713128,Housing Act 2024,Non-remittance,752
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Variance,Ksh 175B Loan Financing Deficit,Variance,492123199768,Sec 2 PFM,Fiscal Deficit,23
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Variance,Domestic vs External Borrowing Ratio (70:30),Variance,N/A,Ratio,MTDS Strategy,Strategic Breach,23
+1071,The National Treasury,Affordable Housing,Variance,Inaccuracy,e-Citizen Unspecified prior year balance,Variance,145824907,Note 26,Data Opacity,43
+1071,The National Treasury,Affordable Housing,Variance,Inaccuracy,e-Citizen Receipts from opening payables,Variance,4912502229,Note 26,Cash Flow Risk,43
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Kenya Airports Authority,Variance,2471120,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to National Construction Auth,Variance,900232435,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to KNEC,Variance,6359035,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Meru University,Variance,252357,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Kenya Civil Aviation,Variance,269761619,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Kenya Meat Commission,Variance,1351622,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Maseno University,Variance,30877689,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to University of Kabianga,Variance,2356965,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Kenya Ports Authority,Variance,194061644,Note 21,Data Integrity Risk,45
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Kenya Bureau of Standards,Variance,21629815,Note 21,Data Integrity Risk,45
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Retirement Benefits Auth,Variance,7514426,Note 21,Data Integrity Risk,45
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Public Proc Reg Auth,Variance,917070,Note 21,Data Integrity Risk,45
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Kenya Industrial Property,Variance,657324,Note 21,Data Integrity Risk,45
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Gotu-Merti (C340-01A) Time Elapsed,Percentage,110.7,Percent,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Gotu-Merti (C340-01B) Time Elapsed,Percentage,110.7,Percent,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Isiolo-Mlango (C342-02A) Time Elapsed,Percentage,106.7,Percent,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Isiolo-Mlango (C342-02B) Time Elapsed,Percentage,110.7,Percent,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Marima-Makutano Time Elapsed,Percentage,114,Percent,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Materi-Kamarandi Time Elapsed,Percentage,114,Percent,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Itungururu-Kamaende Time Elapsed,Percentage,76,Percent,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Kachulu-Gotu Time Elapsed,Percentage,85,Percent,Behind Schedule,386
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (July),Count,32,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (August),Count,31,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (September),Count,12,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (October),Count,57,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (November),Count,50,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (December),Count,0,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (January),Count,40,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (February),Count,41,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (March),Count,40,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (April),Count,46,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (May),Count,46,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (June),Count,39,No,Employment Act,Staff Welfare,401
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Kenya Advanced Inst of Science,Audited_Expenditure,389082,USD,Basis Conclusion,Delay Interest,36
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,NICHE Program Payroll Variance,Variance,6209000,Ksh,Basis Conclusion,Fraud Risk,36
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,COVID-19 Health Response CCE,Audited_Expenditure,16038414,USD,Basis Conclusion,Lack of Training,37
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Sirari Corridor Road Rehab,Audited_Expenditure,228000000,USD,Basis Conclusion,Addendum Tenure,37
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Interest,Sirari Corridor Delay Interest,Loss,331130553,Ksh,Reg 14.8,Avoidable Cost,38
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Migori Market Cost Increase,Variance,144299340,Ksh,Reg 139,57% Sum Increase,38
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Athi Water Development Grant,Audited_Expenditure,61957305908,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Kenya Meat Commission Loan,Audited_Expenditure,940241100,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Kenyatta University Loan,Audited_Expenditure,10774498010,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Malindi Water Sewerage Co,Audited_Expenditure,1584270995,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Mumias Sugar Co Loan,Audited_Expenditure,3000000000,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Tavevo Water Sewerage Co,Audited_Expenditure,963550417,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Dormant Loans (13 Institutions),Arrears,25515108908,Ksh,Other Matter,Liquidity Risk,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Agro-Chemical and Food Co,Arrears,2941884000,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Halal Meat Products,Arrears,27701420,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,KDC-IDB Capital Limited,Arrears,590108567,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,KDC-Kenya Tourist Dev Corp,Arrears,48000000,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Kenya Urban Transport (Towns),Arrears,40706140,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Lake Basin Development Authority,Arrears,2000000000,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,National Irrigation Board,Arrears,1128486779,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,National Water Conservation,Arrears,2460874897,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Uchumi Supermarkets Ltd,Arrears,1200000000,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Water Resources Mgmt Authority,Arrears,362607995,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Defunct Entities (7 Entities),Arrears,7878958424,Ksh,Note 55,Capital Loss,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Agricultural Settlement Fund,Arrears,74461004,Ksh,Defunct List,Unrecoverable,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Local Government Loans Authority,Arrears,7594273720,Ksh,Defunct List,Unrecoverable,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Mombasa Pipeline Board,Arrears,22964980,Ksh,Defunct List,Unrecoverable,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Nairobi City Council,Arrears,102333760,Ksh,Defunct List,Unrecoverable,41
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Mumias Outgrowers Co,Arrears,16517400,Ksh,Defunct List,Unrecoverable,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,Ken-Ren Chemicals and Fertilizers,Arrears,72800000,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,Kenya Farmers Association,Arrears,20,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,National Agricultural Chemical,Arrears,41699960,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,Nyari Estate Limited,Arrears,50000,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,Kenya Poultry Limited,Arrears,20,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Reporting,Gap,Quarterly Financial Reports Failure,Risk,N/A,No,Reg 83,Reporting Breach,41
+1091,KeNHA,Fuel Levy (RMLF),Internal Control,Gap,Internal Audit Failure,Risk,N/A,No,Reg 73,Governance Breach,42
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Interest,Avoidable Commitment Fee (Undrawn),Loss,1079876429,Ksh,PFM Reg 193,Avoidable Cost,25
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Penalty,Late Interest and Penalty Fees,Loss,3139601,Ksh,Note 8,Fiscal Leakage,25
+1094,State Dept Housing,Affordable Housing,Remittance,Penalty,Delayed Arbitral Award Settlement,Liability,165980055,Ksh,Emphasis of Matter,Penalty Risk,400
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Kisumu Urban Project Advance Account,Arrears,2197909,Ksh,Emphasis of Matter,Idle Cash,411
+1094,State Dept Housing,Affordable Housing,Project,Remittance,Kisumu Urban Project Pending Bills,Arrears,31575700,Ksh,Emphasis of Matter,Long Outstanding,411
+1094,State Dept Housing,Affordable Housing,Reporting,Format,Failure to adopt IPSAS Accrual,Risk,N/A,No,Circular 03/2025,Regulatory Breach,282
+1094,State Dept Housing,Affordable Housing,Reporting,Data,AIA Variance KEMSA,Variance,6085164755,Ksh,Qualified Opinion,Data Mismatch,264
+1094,State Dept Housing,Affordable Housing,Reporting,Data,AIA Variance KEMRI,Variance,5274195385,Ksh,Qualified Opinion,Data Mismatch,264
+1094,State Dept Housing,Affordable Housing,Reporting,Data,AIA Variance KUTRRH,Variance,5277548,Ksh,Qualified Opinion,Data Mismatch,264
+1094,State Dept Housing,Affordable Housing,Revenue,Arrears,Social Health Authority (SHA) AIA,Arrears,Unknown,Ksh,Qualified Opinion,Mandate Opacity,264
+1094,State Dept Housing,Affordable Housing,Receivables,Debt,Social Health Authority Debt,Arrears,359103427,Ksh,Qualified Opinion,Undisclosed Asset,264
+1094,State Dept Housing,Affordable Housing,Cash,Variance,Equalisation Fund Account Balance,Variance,134152978,Ksh,Qualified Opinion,Data Opacity,264
+1094,State Dept Housing,Affordable Housing,Project,Reporting,Kisii Cancer Centre FS Failure,Risk,N/A,No,Qualified Opinion,Reporting Gap,265
+1094,State Dept Housing,Affordable Housing,Project,Reporting,NASCOP TLC-1DU Research FS Failure,Risk,N/A,No,Qualified Opinion,Reporting Gap,265
+1094,State Dept Housing,Affordable Housing,Budget,Control,Medical Services Over-expenditure,Variance,1090300055,Ksh,Emphasis of Matter,Fiscal Discipline,265
+1094,State Dept Housing,Affordable Housing,Legal,Court,Anti-malaria contract interest growth,Liability,15250000000,Ksh,Court Award 1995,Fiscal Risk,266
+1094,State Dept Housing,Affordable Housing,Levy,Vaccination,GAVI Grant Disclosure Failure,Variance,Unknown,Ksh,Note 782,Accounting Opacity,267
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Maternal Upgrading (6/20 done),Risk,N/A,No,Reg 74,Contract Delay,268
+1094,State Dept Housing,Affordable Housing,Revenue,Patient,Mathari Hospital Waived Bills,Loss,41764443,Ksh,Reg 66,Unapproved Waiver,268
+1094,State Dept Housing,Affordable Housing,Project,Stall,Equalisation Fund Stalled projects (20 No),Arrears,333037912,Ksh,Basis Conclusion,Capital Loss,269
+1094,State Dept Housing,Affordable Housing,Project,Stall,Pediatric Emergency Centre (KNH),Arrears,1099686586,Ksh,Basis Conclusion,Incomplete Project,269
+1094,State Dept Housing,Affordable Housing,Project,Stall,NEURpsychiatric Hospital (Ngong),Arrears,579150000,Ksh,Basis Conclusion,Non-commencement,269
+1094,State Dept Housing,Affordable Housing,Revenue,Sharing,Social Health Auth Pay-out ratio > 100%,Loss,N/A,No,Art 2(b) PPP Act,Unfavorable Terms,269
+1094,State Dept Housing,Affordable Housing,Project,PPP,Unapproved National Equipment Service,Risk,N/A,No,PPP Act 2021,Legal Breach,269
+1094,State Dept Housing,Affordable Housing,Project,Lease,Medical Equipment Lease Unbudgeted,Risk,N/A,No,Sec 53(8) PPAD,Fiscal Risk,270
+1094,State Dept Housing,Affordable Housing,Project,Audit,Internal Audit Failure (Global Fund),Risk,N/A,No,Sec 168,Governance Gap,74
+1094,State Dept Housing,Affordable Housing,Asset,Registry,Missing Asset Register (Global Fund),Risk,N/A,No,Reg 143,Internal Control,75
+1094,State Dept Housing,Affordable Housing,Reporting,Inaccuracy,Deferred Income Movement (ACE Project),Variance,2071911,Ksh,Qualified Opinion,Unexplained Gap,229
+1094,State Dept Housing,Affordable Housing,Reporting,Inaccuracy,Depreciation Expense (ACE Project),Variance,19597356,Ksh,Qualified Opinion,Incomplete Disclosure,229
+1094,State Dept Housing,Affordable Housing,Budget,Performance,ACE Project Under-funding,Variance,190934129,Ksh,Emphasis of Matter,Delivery Risk,229
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Isuzu Minibus down-payment delay,Risk,N/A,No,Contractual,Procurement Delay,218
+1094,State Dept Housing,Affordable Housing,Project,Implementation,CFAO Microbus ambulance non-delivery,Risk,N/A,No,Contractual,Value for Money,218
+1094,State Dept Housing,Affordable Housing,Remittance,Doubtful,Moi University Advanced Funds recovery,Arrears,12000000,Ksh,Qualified Opinion,Unauthorized Reallocation,232
+1094,State Dept Housing,Affordable Housing,Variance,Inaccuracy,Work in Progress omission (Moi Univ),Variance,342596,Ksh,Qualified Opinion,Understatement,233
+1094,State Dept Housing,Affordable Housing,Budget,Performance,PTRE Project Under-funding,Variance,233063920,Ksh,Emphasis of Matter,Delivery Risk,233
+1094,State Dept Housing,Affordable Housing,Budget,Performance,PTRE Project Over-expenditure,Variance,49055250,Ksh,Emphasis of Matter,Fiscal Discipline,233
+1094,State Dept Housing,Affordable Housing,Project,Scholarship,PhD Completion Delays (67% pending),Risk,N/A,No,Basis Conclusion,Health Goal Failure,234
+1094,State Dept Housing,Affordable Housing,Expenditure,Imprest,Unsurrendered Imprest (PTRE Project),Arrears,895644,Ksh,Reg 93,Legal Breach,234
+1094,State Dept Housing,Affordable Housing,Payables,Aging,Long Outstanding Creditors (PTRE),Arrears,6706498,Ksh,Reg 139,Liquidity Risk,235
+1094,State Dept Housing,Affordable Housing,Reporting,Format,Non-compliance with Chart of Accounts,Risk,N/A,No,PSASB,Regulatory Breach,235
+1094,State Dept Housing,Affordable Housing,Reporting,Climate,Failure to submit Climate Performance,Risk,N/A,No,Sec 15(5),Statutory Breach,235
+1071,The National Treasury,Affordable Housing,Remittance,Timing,e-Citizen Manual Settlement Lag,Variance,N/A,Days,Special Audit Mar 2025,Efficiency Loss,32
+1071,The National Treasury,Affordable Housing,Remittance,Timing,e-Citizen Manual Processing Errors,Risk,N/A,No,Special Audit Mar 2025,Security Risk,32
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Meru Univ,Variance,116828,Ksh,Note 21,Data Gap,45
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Chuka Univ,Variance,203041,Ksh,Note 21,Data Gap,44
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Tharaka Univ,Variance,3722086,Ksh,Note 21,Data Gap,44
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Maseno Univ,Variance,30877689,Ksh,Note 21,Data Gap,44
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Kabianga Univ,Variance,2356965,Ksh,Note 21,Data Gap,44
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Payable Variance Embu Univ,Variance,1419636,Ksh,Note 21,Data Gap,45
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Gotu-Merti (C340-01A) Physical Progress,Percentage,67.6,Percent,Note 10,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Gotu-Merti (C340-01B) Physical Progress,Percentage,60.8,Percent,Note 10,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Isiolo-Mlango (C342-02A) Physical Progress,Percentage,39.4,Percent,Note 10,Abandoned Site,384
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Isiolo-Mlango (C342-02B) Physical Progress,Percentage,89,Percent,Note 10,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Marima-Makutano Physical Progress,Percentage,87,Percent,Note 10,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Materi-Kamarandi Physical Progress,Percentage,96.7,Percent,Note 10,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Itungururu-Kamaende Physical Progress,Percentage,23,Percent,Note 10,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Kachulu-Gotu Physical Progress,Percentage,32,Percent,Note 10,Behind Schedule,386
+1094,State Dept Housing,Affordable Housing,Reporting,Data,Kwale County CRF Lagooned Funds,Variance,717435922,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,CWWDA Lagooned Funds,Variance,48750200,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,WSTF Lagooned Funds,Variance,53445,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,Kilifi County CRF Lagooned Funds,Variance,1551652334,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,Garissa County CRF Lagooned Funds,Variance,307864442,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,Taita Taveta CRF Lagooned Funds,Variance,610917826,Ksh,Reconciled Balance,Data Mismatch,460
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Water distribution works (Mtwapa Town),Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Watamu Town Lot 2B Contract,Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Faecal Sludge Plant (Watamu Lot 3B),Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Faecal Sludge Plant (Malindi Town),Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Mombasa Ablution Blocks,Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Mtwapa/Mtondia Sludge Facility,Risk,N/A,No,Abandoned,Capital Loss,451
+1094,State Dept Housing,Affordable Housing,Expenditure,Rent,Nyandarua Urban Support Lag,Variance,32309300,Ksh,Emphasis of Matter,Implementation Gap,374
+1094,State Dept Housing,Affordable Housing,Expenditure,Rent,Shipping Maritime Produced Assets rent,Variance,26435959,Ksh,Basis Conclusion,Lease Absence,386
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Kisumu Urban Project closure delay,Risk,N/A,No,Emphasis of Matter,Closure Lag,398
+1094,State Dept Housing,Affordable Housing,Remittance,Ineligible spend,AFD PWC Audit Ineligible Spend,Loss,111352253,Ksh,Basis Conclusion,Refund Failure,398
+1094,State Dept Housing,Affordable Housing,Reporting,Compliance,Nyeri Urban Support FS delay (38 days),Risk,N/A,No,Basis Conclusion,Deadline Breach,152
+1094,State Dept Housing,Affordable Housing,Expenditure,Hospitality,Nyeri County Headquarters hospitality,Loss,7998880,Ksh,Reg 210,Uneconomical Spend,152
+1094,State Dept Housing,Affordable Housing,Reporting,Template,Kirinyaga Urban Support FS errors,Risk,N/A,No,Qualified Opinion,Misrepresentation,153
+1094,State Dept Housing,Affordable Housing,Remittance,County CRF,Kirinyaga Institutional Grants lag,Variance,37500000,Ksh,Basis Conclusion,Delayed Release,154
+1094,State Dept Housing,Affordable Housing,Project,Planning,Kirinyaga Stakeholder Engagement Plan missing,Risk,N/A,No,Basis Conclusion,Governance Weakness,155
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Nanyuki 132kV Underground Delay,Risk,N/A,No,Note 1805,553 Day gap,560
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Variance,Nanyuki Additional Budget Request,Variance,2000000,USD,Note 1806,Budget Deficit,560
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Interest,Last Mile Connectivity I commitment charge,Loss,6309750,Ksh,Basis Conclusion,Resource Wastage,463
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Gatundu Water Sewerage 33 Month Delay,Risk,N/A,No,Note 1484,EOT Overrun,463
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Compliance,Gatundu Land Acquisition under-remittance,Variance,327462128,Ksh,Note 1484,Funding Gap,463
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Kitui/Matuu Last Mile (Stalled 36%),Arrears,153344130,Ksh,Note 1485,Genuine Guarantee Failure,464
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Leakage,Kitui/Matuu Unrecovered Advance,Loss,32801599,USD,Note 1485,Genuine Guarantee Failure,464
+1091,KeNHA,Fuel Levy (RMLF),Project,Stall,Machakos Earth Embankment Dam,Loss,150151128,Ksh,Note 1486,Land Dispute,464
+1071,The National Treasury,Affordable Housing,Expenditure,Ineligible,Kenya Informal Settlement IBRD Refund,Arrears,5669894,EUR,Emphasis of Matter,Closure Lag,396
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Delay,Barabara Plaza Electrical Works (51% progress),Risk,N/A,No,Note 983,Behind Schedule,314
+1091,KeRRA,Fuel Levy (RMLF),Project,Delay,10TH EDF Rural Roads (12 Years),Risk,N/A,No,Note 1181,Non-completion,363
+1091,KeRRA,Fuel Levy (RMLF),Expenditure,Overfunding,Western Kenya Market Infra (Counterpart),Variance,354978653,Ksh,Qualified Opinion,Accounting Failure,365
+1091,KeRRA,Fuel Levy (RMLF),Project,Implementation,Mbeu Grain Drying Facility (Londiani),Risk,N/A,No,Note 1987.3,Delayed Transport,622
+1091,KeRRA,Fuel Levy (RMLF),Expenditure,Variance,Kibiru Feedlot Measured Works Variance,Variance,7668450,Ksh,Note 1903,Non-execution,590
+1091,KeRRA,Fuel Levy (RMLF),Expenditure,Variance,Kibiru Feedlot General Store Defects,Risk,N/A,No,Note 1903,Poor Workmanship,590
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (January),Count,32,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (February),Count,31,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (March),Count,12,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (April),Count,57,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (May),Count,50,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (June),Count,0,No,Note 1273,Statutory Breach,388
+1094,State Dept Housing,Affordable Housing,Remittance,Leakage,Unremitted Rent Revenue (Housing),Arrears,23625450,Ksh,Note 1275,Collection Failure,388
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Nanyuki 132kV Underground Cable,Audited_Expenditure,963354781,Ksh,Note 1802,Unexplained Excess,559
+1091,State Dept for Roads,Fuel Levy (RMLF),Expenditure,Project Spend,Nanyuki-Rumuruti (AfDB Portion),Audited_Expenditure,635261689,Ksh,Note 1802,Data Inconsistency,559
+1091,KeNHA,Fuel Levy (RMLF),Reporting,Compliance,Mariakani Substation FS Errors (Page numbering),Risk,N/A,No,Note 1804,Format Breach,559
+1091,KeNHA,Fuel Levy (RMLF),Reporting,Compliance,Mariakani Substation FS Errors (Currency ref),Risk,N/A,No,Note 1804,Format Breach,559
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Variance,Last Mile Connectivity I Budget Discrepancy,Variance,28012000,Ksh,Basis Conclusion,Unapproved Spend,561
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Payables,Last Mile I Terminated Contract Bills,Arrears,89062000,Ksh,Basis Conclusion,Arbitration Delay,562
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Last Mile I Lot B1 Progress,Percentage,45,Percent,Note 1813,Behind Schedule,562
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Last Mile I Lot B2 Progress,Percentage,52,Percent,Note 1813,Behind Schedule,562
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Last Mile I Lot B3 Progress,Percentage,61,Percent,Note 1813,Behind Schedule,562
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Interest,Last Mile I Avoidable Interest,Loss,N/A,No,Note 1811,Fiscal Leakage,561
+1011,Executive Office President,Affordable Housing,Remittance,Compliance,Housing Levy Deducted but not remitted (Lottery Board),Arrears,114648159,Sec 21(1) Nat Lottery,Legal Breach,94
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Interest,KOSAP Commitment Fees (98% undrawn),Loss,22974867,Ksh,Note 1874,Avoidable Cost,579
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,KOSAP Mini-grids (31/57 target),Percentage,54,Percent,Note 1873,Target Failure,579
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Kenya Electricity Expansion (OPEC),Audited_Expenditure,1162772688,Ksh,Emphasis of Matter,23% Undrawn,593
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,KEEP Install Count (72% progress),Percentage,72,Percent,Note 1879,Time Lapse 97%,593
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Nkoisusu Market (4 year delay),Risk,N/A,No,Note 1884,Contractor Absence,595
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Kaluli Market (No power connection),Risk,N/A,No,Note 1885,Under-utilization,595
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Muthungutha Village (47 unconnected),Risk,N/A,No,Note 1886,Target Failure,595
+1091,KeNHA,Fuel Levy (RMLF),Variance,Target,KEEP expected connections variance,Variance,296665,No,Note 1887,Feasibility Gap,596
+1109,State Dept Water,Fuel Levy (RMLF),Remittance,Interest,Mwache Dam Delayed Payment Interest,Loss,468137276,Ksh,Note 1420,Avoidable Cost,442
+1109,State Dept Water,Fuel Levy (RMLF),Expenditure,Project,Mwache Dam Variation Orders,Variance,4014677115,Ksh,Note 1422,Cost Overrun,443
+1109,State Dept Water,Fuel Levy (RMLF),Expenditure,Project,Mwache Dam Price Adjustment,Variance,5270275261,Ksh,Note 1422,Cost Overrun,443
+1109,State Dept Water,Fuel Levy (RMLF),Internal Control,Audit,Mwache Dam Internal Audit Failure,Risk,N/A,No,Sec 73,Governance Gap,42
+1109,State Dept Water,Fuel Levy (RMLF),Asset,Registry,Mwache Dam Asset Registry missing,Risk,N/A,No,Reg 143,Internal Control,42
+1109,State Dept Water,Fuel Levy (RMLF),Remittance,Interest,Waitiki-Likoni Interest Charge,Loss,190095316,Ksh,Note 1359.2,Avoidable Cost,427
+1109,State Dept Water,Fuel Levy (RMLF),Project,Stall,Mwache Dam (41% Progress),Percentage,41,Percent,Note 1364.1,Behind Schedule,433
+1094,State Dept Housing,Affordable Housing,Remittance,County,County Revenue Fund (Kiambu) non-transfer,Variance,264543092,Reg 83,Mandate Overlap,402
+1094,State Dept Housing,Affordable Housing,Remittance,County,County Revenue Fund (Nairobi) non-transfer,Variance,260000000,Reg 83,Mandate Overlap,403
+1094,State Dept Housing,Affordable Housing,Remittance,County,County Revenue Fund (Taita Taveta) non-transfer,Variance,26321755,Reg 83,Mandate Overlap,403
+1094,State Dept Housing,Affordable Housing,Remittance,County,Kilifi County non-transfer to SPA,Variance,717435922,Reg 83,Governance Breach,460
+1094,State Dept Housing,Affordable Housing,Remittance,County,Garissa County non-transfer to SPA,Variance,307864442,Reg 83,Governance Breach,460
+1094,State Dept Housing,Affordable Housing,Remittance,County,Wajir County non-transfer to SPA,Variance,610917826,Reg 83,Governance Breach,460
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Nyandarua Housing Project Receipt Delay,Arrears,32309300,Ksh,Emphasis of Matter,Non-implementation,374
+1094,State Dept Housing,Affordable Housing,Expenditure,Rent,National Social Security Fund Rent overpayment,Loss,24849324,Ksh,Basis Conclusion,Fiscal Leakage,388
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Gotu-Merti (C340-01A) Physical Progress,Percentage,67.6,Percent,Behind Schedule,RMLF,384
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Gotu-Merti (C340-01B) Physical Progress,Percentage,60.8,Percent,Behind Schedule,RMLF,384
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Isiolo-Mlango (C342-02A) Physical Progress,Percentage,39.4,Percent,Behind Schedule,RMLF,384
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Marima-Makutano Physical Progress,Percentage,87,Percent,Behind Schedule,RMLF,385
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Materi-Kamarandi Physical Progress,Percentage,96.7,Percent,Behind Schedule,RMLF,385
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Itungururu-Kamaende Physical Progress,Percentage,23,Percent,Behind Schedule,RMLF,385
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project,Kachulu-Gotu Physical Progress,Percentage,32,Percent,Behind Schedule,RMLF,386
+1094,State Dept for Housing,Affordable Housing,Project,Implementation,Kisumu Urban Project Bank Charge,Loss,1200,Ksh,Emphasis of Matter,Idle Cash,411
+1094,State Dept for Housing,Affordable Housing,Remittance,Compliance,Housing Levy Deducted but not remitted (EAC),Revenue_Leakage,122615743,Housing Act 2024,Non-remittance,746
+1094,State Dept for Housing,Affordable Housing,Remittance,Compliance,Housing Levy Deducted but not remitted (Social Protection),Revenue_Leakage,12034782,Housing Act 2024,Non-remittance,702
+1094,State Dept for Housing,Affordable Housing,Remittance,Compliance,Housing Levy Deducted but not remitted (State Law Office),Revenue_Leakage,3713128,Housing Act 2024,Non-remittance,752
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Variance,Ksh 175B Loan Financing Deficit,Variance,492123199768,Sec 2 PFM,Fiscal Deficit,23
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Variance,Domestic vs External Borrowing Ratio (70:30),Variance,N/A,Ratio,MTDS Strategy,Strategic Breach,23
+1071,The National Treasury,Affordable Housing,Variance,Inaccuracy,e-Citizen Unspecified prior year balance,Variance,145824907,Note 26,Data Opacity,43
+1071,The National Treasury,Affordable Housing,Variance,Inaccuracy,e-Citizen Receipts from opening payables,Variance,4912502229,Note 26,Cash Flow Risk,43
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Kenya Airports Authority,Variance,2471120,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to National Construction Auth,Variance,900232435,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to KNEC,Variance,6359035,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Meru University,Variance,252357,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Kenya Civil Aviation,Variance,269761619,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Kenya Meat Commission,Variance,1351622,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to Maseno University,Variance,30877689,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Transfer,e-Citizen Transfer to University of Kabianga,Variance,2356965,Note 21,Manual Transfer Risk,44
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Kenya Ports Authority,Variance,194061644,Note 21,Data Integrity Risk,45
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Kenya Bureau of Standards,Variance,21629815,Note 21,Data Integrity Risk,45
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Retirement Benefits Auth,Variance,7514426,Note 21,Data Integrity Risk,45
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Public Proc Reg Auth,Variance,917070,Note 21,Data Integrity Risk,45
+1071,The National Treasury,Fuel Levy (RMLF),Variance,Payable,e-Citizen Payable to Kenya Industrial Property,Variance,657324,Note 21,Data Integrity Risk,45
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Gotu-Merti (C340-01A) Time Elapsed,Percentage,110.7,Percent,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Gotu-Merti (C340-01B) Time Elapsed,Percentage,110.7,Percent,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Isiolo-Mlango (C342-02A) Time Elapsed,Percentage,106.7,Percent,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Isiolo-Mlango (C342-02B) Time Elapsed,Percentage,110.7,Percent,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Marima-Makutano Time Elapsed,Percentage,114,Percent,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Materi-Kamarandi Time Elapsed,Percentage,114,Percent,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Itungururu-Kamaende Time Elapsed,Percentage,76,Percent,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Variance,Target,Kachulu-Gotu Time Elapsed,Percentage,85,Percent,Behind Schedule,386
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (July),Count,32,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (August),Count,31,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (September),Count,12,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (October),Count,57,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (November),Count,50,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (December),Count,0,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (January),Count,40,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (February),Count,41,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (March),Count,40,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (April),Count,46,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (May),Count,46,No,Employment Act,Staff Welfare,401
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (June),Count,39,No,Employment Act,Staff Welfare,401
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Kenya Advanced Inst of Science,Audited_Expenditure,389082,USD,Basis Conclusion,Delay Interest,36
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,NICHE Program Payroll Variance,Variance,6209000,Ksh,Basis Conclusion,Fraud Risk,36
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,COVID-19 Health Response CCE,Audited_Expenditure,16038414,USD,Basis Conclusion,Lack of Training,37
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Sirari Corridor Road Rehab,Audited_Expenditure,228000000,USD,Basis Conclusion,Addendum Tenure,37
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Interest,Sirari Corridor Delay Interest,Loss,331130553,Ksh,Reg 14.8,Avoidable Cost,38
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Migori Market Cost Increase,Variance,144299340,Ksh,Reg 139,57% Sum Increase,38
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Athi Water Development Grant,Audited_Expenditure,61957305908,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Kenya Meat Commission Loan,Audited_Expenditure,940241100,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Kenyatta University Loan,Audited_Expenditure,10774498010,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Malindi Water Sewerage Co,Audited_Expenditure,1584270995,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Mumias Sugar Co Loan,Audited_Expenditure,3000000000,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Tavevo Water Sewerage Co,Audited_Expenditure,963550417,Ksh,Basis Conclusion,Unconfirmed Balance,39
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Dormant Loans (13 Institutions),Arrears,25515108908,Ksh,Other Matter,Liquidity Risk,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Agro-Chemical and Food Co,Arrears,2941884000,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Halal Meat Products,Arrears,27701420,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,KDC-IDB Capital Limited,Arrears,590108567,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,KDC-Kenya Tourist Dev Corp,Arrears,48000000,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Kenya Urban Transport (Towns),Arrears,40706140,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Lake Basin Development Authority,Arrears,2000000000,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,National Irrigation Board,Arrears,1128486779,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,National Water Conservation,Arrears,2460874897,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Uchumi Supermarkets Ltd,Arrears,1200000000,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Water Resources Mgmt Authority,Arrears,362607995,Ksh,Dormant List,Bad Debt,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Defunct Entities (7 Entities),Arrears,7878958424,Ksh,Note 55,Capital Loss,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Agricultural Settlement Fund,Arrears,74461004,Ksh,Defunct List,Unrecoverable,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Local Government Loans Authority,Arrears,7594273720,Ksh,Defunct List,Unrecoverable,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Mombasa Pipeline Board,Arrears,22964980,Ksh,Defunct List,Unrecoverable,40
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Nairobi City Council,Arrears,102333760,Ksh,Defunct List,Unrecoverable,41
+1091,KeNHA,Fuel Levy (RMLF),Revenue,Arrears,Mumias Outgrowers Co,Arrears,16517400,Ksh,Defunct List,Unrecoverable,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,Ken-Ren Chemicals and Fertilizers,Arrears,72800000,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,Kenya Farmers Association,Arrears,20,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,National Agricultural Chemical,Arrears,41699960,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,Nyari Estate Limited,Arrears,50000,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Investment,Dormant,Kenya Poultry Limited,Arrears,20,Ksh,Note 56,Asset Loss,41
+1091,KeNHA,Fuel Levy (RMLF),Reporting,Gap,Quarterly Financial Reports Failure,Risk,N/A,No,Reg 83,Reporting Breach,41
+1091,KeNHA,Fuel Levy (RMLF),Internal Control,Gap,Internal Audit Failure,Risk,N/A,No,Reg 73,Governance Breach,42
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Interest,Avoidable Commitment Fee (Undrawn),Loss,1079876429,Ksh,PFM Reg 193,Avoidable Cost,25
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Penalty,Late Interest and Penalty Fees,Loss,3139601,Ksh,Note 8,Fiscal Leakage,25
+1094,State Dept Housing,Affordable Housing,Remittance,Penalty,Delayed Arbitral Award Settlement,Liability,165980055,Ksh,Emphasis of Matter,Penalty Risk,400
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Kisumu Urban Project Advance Account,Arrears,2197909,Ksh,Emphasis of Matter,Idle Cash,411
+1094,State Dept Housing,Affordable Housing,Project,Remittance,Kisumu Urban Project Pending Bills,Arrears,31575700,Ksh,Emphasis of Matter,Long Outstanding,411
+1094,State Dept Housing,Affordable Housing,Reporting,Format,Failure to adopt IPSAS Accrual,Risk,N/A,No,Circular 03/2025,Regulatory Breach,282
+1094,State Dept Housing,Affordable Housing,Reporting,Data,AIA Variance KEMSA,Variance,6085164755,Ksh,Qualified Opinion,Data Mismatch,264
+1094,State Dept Housing,Affordable Housing,Reporting,Data,AIA Variance KEMRI,Variance,5274195385,Ksh,Qualified Opinion,Data Mismatch,264
+1094,State Dept Housing,Affordable Housing,Reporting,Data,AIA Variance KUTRRH,Variance,5277548,Ksh,Qualified Opinion,Data Mismatch,264
+1094,State Dept Housing,Affordable Housing,Revenue,Arrears,Social Health Authority (SHA) AIA,Arrears,Unknown,Ksh,Qualified Opinion,Mandate Opacity,264
+1094,State Dept Housing,Affordable Housing,Receivables,Debt,Social Health Authority Debt,Arrears,359103427,Ksh,Qualified Opinion,Undisclosed Asset,264
+1094,State Dept Housing,Affordable Housing,Cash,Variance,Equalisation Fund Account Balance,Variance,134152978,Ksh,Qualified Opinion,Data Opacity,264
+1094,State Dept Housing,Affordable Housing,Project,Reporting,Kisii Cancer Centre FS Failure,Risk,N/A,No,Qualified Opinion,Reporting Gap,265
+1094,State Dept Housing,Affordable Housing,Project,Reporting,NASCOP TLC-1DU Research FS Failure,Risk,N/A,No,Qualified Opinion,Reporting Gap,265
+1094,State Dept Housing,Affordable Housing,Budget,Control,Medical Services Over-expenditure,Variance,1090300055,Ksh,Emphasis of Matter,Fiscal Discipline,265
+1094,State Dept Housing,Affordable Housing,Legal,Court,Anti-malaria contract interest growth,Liability,15250000000,Ksh,Court Award 1995,Fiscal Risk,266
+1094,State Dept Housing,Affordable Housing,Levy,Vaccination,GAVI Grant Disclosure Failure,Variance,Unknown,Ksh,Note 782,Accounting Opacity,267
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Maternal Upgrading (6/20 done),Risk,N/A,No,Reg 74,Contract Delay,268
+1094,State Dept Housing,Affordable Housing,Revenue,Patient,Mathari Hospital Waived Bills,Loss,41764443,Ksh,Reg 66,Unapproved Waiver,268
+1094,State Dept Housing,Affordable Housing,Project,Stall,Equalisation Fund Stalled projects (20 No),Arrears,333037912,Ksh,Basis Conclusion,Capital Loss,269
+1094,State Dept Housing,Affordable Housing,Project,Stall,Pediatric Emergency Centre (KNH),Arrears,1099686586,Ksh,Basis Conclusion,Incomplete Project,269
+1094,State Dept Housing,Affordable Housing,Project,Stall,NEURpsychiatric Hospital (Ngong),Arrears,579150000,Ksh,Basis Conclusion,Non-commencement,269
+1094,State Dept Housing,Affordable Housing,Revenue,Sharing,Social Health Auth Pay-out ratio > 100%,Loss,N/A,No,Art 2(b) PPP Act,Unfavorable Terms,269
+1094,State Dept Housing,Affordable Housing,Project,PPP,Unapproved National Equipment Service,Risk,N/A,No,PPP Act 2021,Legal Breach,269
+1094,State Dept Housing,Affordable Housing,Project,Lease,Medical Equipment Lease Unbudgeted,Risk,N/A,No,Sec 53(8) PPAD,Fiscal Risk,270
+1094,State Dept Housing,Affordable Housing,Project,Audit,Internal Audit Failure (Global Fund),Risk,N/A,No,Sec 168,Governance Gap,74
+1094,State Dept Housing,Affordable Housing,Asset,Registry,Missing Asset Register (Global Fund),Risk,N/A,No,Reg 143,Internal Control,75
+1094,State Dept Housing,Affordable Housing,Reporting,Inaccuracy,Deferred Income Movement (ACE Project),Variance,2071911,Ksh,Qualified Opinion,Unexplained Gap,229
+1094,State Dept Housing,Affordable Housing,Reporting,Inaccuracy,Depreciation Expense (ACE Project),Variance,19597356,Ksh,Qualified Opinion,Incomplete Disclosure,229
+1094,State Dept Housing,Affordable Housing,Budget,Performance,ACE Project Under-funding,Variance,190934129,Ksh,Emphasis of Matter,Delivery Risk,229
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Isuzu Minibus down-payment delay,Risk,N/A,No,Contractual,Procurement Delay,218
+1094,State Dept Housing,Affordable Housing,Project,Implementation,CFAO Microbus ambulance non-delivery,Risk,N/A,No,Contractual,Value for Money,218
+1094,State Dept Housing,Affordable Housing,Remittance,Doubtful,Moi University Advanced Funds recovery,Arrears,12000000,Ksh,Qualified Opinion,Unauthorized Reallocation,232
+1094,State Dept Housing,Affordable Housing,Variance,Inaccuracy,Work in Progress omission (Moi Univ),Variance,342596,Ksh,Qualified Opinion,Understatement,233
+1094,State Dept Housing,Affordable Housing,Budget,Performance,PTRE Project Under-funding,Variance,233063920,Ksh,Emphasis of Matter,Delivery Risk,233
+1094,State Dept Housing,Affordable Housing,Budget,Performance,PTRE Project Over-expenditure,Variance,49055250,Ksh,Emphasis of Matter,Fiscal Discipline,233
+1094,State Dept Housing,Affordable Housing,Project,Scholarship,PhD Completion Delays (67% pending),Risk,N/A,No,Basis Conclusion,Health Goal Failure,234
+1094,State Dept Housing,Affordable Housing,Expenditure,Imprest,Unsurrendered Imprest (PTRE Project),Arrears,895644,Ksh,Reg 93,Legal Breach,234
+1094,State Dept Housing,Affordable Housing,Payables,Aging,Long Outstanding Creditors (PTRE),Arrears,6706498,Ksh,Reg 139,Liquidity Risk,235
+1094,State Dept Housing,Affordable Housing,Reporting,Format,Non-compliance with Chart of Accounts,Risk,N/A,No,PSASB,Regulatory Breach,235
+1094,State Dept Housing,Affordable Housing,Reporting,Climate,Failure to submit Climate Performance,Risk,N/A,No,Sec 15(5),Statutory Breach,235
+1071,The National Treasury,Affordable Housing,Remittance,Timing,e-Citizen Manual Settlement Lag,Variance,N/A,Days,Special Audit Mar 2025,Efficiency Loss,32
+1071,The National Treasury,Affordable Housing,Remittance,Timing,e-Citizen Manual Processing Errors,Risk,N/A,No,Special Audit Mar 2025,Security Risk,32
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Meru Univ,Variance,116828,Ksh,Note 21,Data Gap,45
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Chuka Univ,Variance,203041,Ksh,Note 21,Data Gap,44
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Tharaka Univ,Variance,3722086,Ksh,Note 21,Data Gap,44
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Maseno Univ,Variance,30877689,Ksh,Note 21,Data Gap,44
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Transfer Variance Kabianga Univ,Variance,2356965,Ksh,Note 21,Data Gap,44
+1071,The National Treasury,Affordable Housing,Remittance,Gap,e-Citizen Payable Variance Embu Univ,Variance,1419636,Ksh,Note 21,Data Gap,45
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Gotu-Merti (C340-01A) Physical Progress,Percentage,67.6,Percent,Note 10,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Gotu-Merti (C340-01B) Physical Progress,Percentage,60.8,Percent,Note 10,Behind Schedule,384
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Isiolo-Mlango (C342-02A) Physical Progress,Percentage,39.4,Percent,Note 10,Abandoned Site,384
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Isiolo-Mlango (C342-02B) Physical Progress,Percentage,89,Percent,Note 10,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Marima-Makutano Physical Progress,Percentage,87,Percent,Note 10,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Materi-Kamarandi Physical Progress,Percentage,96.7,Percent,Note 10,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Itungururu-Kamaende Physical Progress,Percentage,23,Percent,Note 10,Behind Schedule,385
+1091,State Dept Roads,Fuel Levy (RMLF),Expenditure,Project,Kachulu-Gotu Physical Progress,Percentage,32,Percent,Note 10,Behind Schedule,386
+1094,State Dept Housing,Affordable Housing,Reporting,Data,Kwale County CRF Lagooned Funds,Variance,717435922,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,CWWDA Lagooned Funds,Variance,48750200,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,WSTF Lagooned Funds,Variance,53445,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,Kilifi County CRF Lagooned Funds,Variance,1551652334,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,Garissa County CRF Lagooned Funds,Variance,307864442,Ksh,Reconciled Balance,Data Mismatch,460
+1094,State Dept Housing,Affordable Housing,Reporting,Data,Taita Taveta CRF Lagooned Funds,Variance,610917826,Ksh,Reconciled Balance,Data Mismatch,460
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Water distribution works (Mtwapa Town),Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Watamu Town Lot 2B Contract,Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Faecal Sludge Plant (Watamu Lot 3B),Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Faecal Sludge Plant (Malindi Town),Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Mombasa Ablution Blocks,Risk,N/A,No,Unresolved,Capital Loss,448
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Stall,Mtwapa/Mtondia Sludge Facility,Risk,N/A,No,Abandoned,Capital Loss,451
+1094,State Dept Housing,Affordable Housing,Expenditure,Rent,Nyandarua Urban Support Lag,Variance,32309300,Ksh,Emphasis of Matter,Implementation Gap,374
+1094,State Dept Housing,Affordable Housing,Expenditure,Rent,Shipping Maritime Produced Assets rent,Variance,26435959,Ksh,Basis Conclusion,Lease Absence,386
+1094,State Dept Housing,Affordable Housing,Project,Implementation,Kisumu Urban Project closure delay,Risk,N/A,No,Emphasis of Matter,Closure Lag,398
+1094,State Dept Housing,Affordable Housing,Remittance,Ineligible spend,AFD PWC Audit Ineligible Spend,Loss,111352253,Ksh,Basis Conclusion,Refund Failure,398
+1094,State Dept Housing,Affordable Housing,Reporting,Compliance,Nyeri Urban Support FS delay (38 days),Risk,N/A,No,Basis Conclusion,Deadline Breach,152
+1094,State Dept Housing,Affordable Housing,Expenditure,Hospitality,Nyeri County Headquarters hospitality,Loss,7998880,Ksh,Reg 210,Uneconomical Spend,152
+1094,State Dept Housing,Affordable Housing,Reporting,Template,Kirinyaga Urban Support FS errors,Risk,N/A,No,Qualified Opinion,Misrepresentation,153
+1094,State Dept Housing,Affordable Housing,Remittance,County CRF,Kirinyaga Institutional Grants lag,Variance,37500000,Ksh,Basis Conclusion,Delayed Release,154
+1094,State Dept Housing,Affordable Housing,Project,Planning,Kirinyaga Stakeholder Engagement Plan missing,Risk,N/A,No,Basis Conclusion,Governance Weakness,155
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Project Spend,Nanyuki 132kV Underground Delay,Risk,N/A,No,Note 1805,553 Day gap,560
+1091,KeNHA,Fuel Levy (RMLF),Expenditure,Variance,Nanyuki Additional Budget Request,Variance,2000000,USD,Note 1806,Budget Deficit,560
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Interest,Last Mile Connectivity I commitment charge,Loss,6309750,Ksh,Basis Conclusion,Resource Wastage,463
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Gatundu Water Sewerage 33 Month Delay,Risk,N/A,No,Note 1484,EOT Overrun,463
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Compliance,Gatundu Land Acquisition under-remittance,Variance,327462128,Ksh,Note 1484,Funding Gap,463
+1091,KeNHA,Fuel Levy (RMLF),Project,Implementation,Kitui/Matuu Last Mile (Stalled 36%),Arrears,153344130,Ksh,Note 1485,Genuine Guarantee Failure,464
+1091,KeNHA,Fuel Levy (RMLF),Remittance,Leakage,Kitui/Matuu Unrecovered Advance,Loss,32801599,USD,Note 1485,Genuine Guarantee Failure,464
+1091,KeNHA,Fuel Levy (RMLF),Project,Stall,Machakos Earth Embankment Dam,Loss,150151128,Ksh,Note 1486,Land Dispute,464
+1071,The National Treasury,Affordable Housing,Expenditure,Ineligible,Kenya Informal Settlement IBRD Refund,Arrears,5669894,EUR,Emphasis of Matter,Closure Lag,396
+1091,State Dept Roads,Fuel Levy (RMLF),Project,Delay,Barabara Plaza Electrical Works (51% progress),Risk,N/A,No,Note 983,Behind Schedule,314
+1091,KeRRA,Fuel Levy (RMLF),Project,Delay,10TH EDF Rural Roads (12 Years),Risk,N/A,No,Note 1181,Non-completion,363
+1091,KeRRA,Fuel Levy (RMLF),Expenditure,Overfunding,Western Kenya Market Infra (Counterpart),Variance,354978653,Ksh,Qualified Opinion,Accounting Failure,365
+1091,KeRRA,Fuel Levy (RMLF),Project,Implementation,Mbeu Grain Drying Facility (Londiani),Risk,N/A,No,Note 1987.3,Delayed Transport,622
+1091,KeRRA,Fuel Levy (RMLF),Expenditure,Variance,Kibiru Feedlot Measured Works Variance,Variance,7668450,Ksh,Note 1903,Non-execution,590
+1091,KeRRA,Fuel Levy (RMLF),Expenditure,Variance,Kibiru Feedlot General Store Defects,Risk,N/A,No,Note 1903,Poor Workmanship,590
+1094,State Dept Housing,Affordable Housing,HR,Over-commitment,Staff earning < 1/3 salary (January),Count,32,No,Note 1273,Statutory Breach,388
+
+1091,State Department for Roads,Roads Infrastructure,Budget Performance,Target Budget,Department Underfunding,Variance,33041863117,N/A,Budget Execution Risk,255,The State Department for Roads suffered a Ksh 33 billion underfunding which severely crippled road maintenance and development.
+1091,State Department for Roads,Roads Infrastructure,HR,Payroll Deduction,Staff Over-committing Salaries,Count,111,Employment Act 2007,Pecuniary Embarrassment,255,111 employees earned less than a third of their basic salary in breach of the Employment Act exposing them to financial risk.
+1092,State Department for Transport,Roads Infrastructure,Pending Bills,Payables,Department Pending Accounts Payable,Payable,5623569,N/A,Liquidity Risk,345,The Department holds Ksh 5.6 million in outstanding payables which could attract avoidable interest and penalties.
+1092,State Department for Transport,Roads Infrastructure,HR,Leave Management,Unlawful Forfeiture of Leave Days,Count,1216,Employment Act 2007,Legal Risk,345,The Department unlawfully forfeited 1216 leave days for 79 staff members violating employment laws and court precedents.
+1092,State Department for Transport,Roads Infrastructure,HR,PWD,Failure to Meet PWD Quota,Percentage,1,Person with Disability Act 2003,Statutory Breach,346,Only 1 percent of the workforce are persons with disabilities falling far below the legal 5 percent minimum threshold.
+1092,State Department for Transport,Roads Infrastructure,Deposits,Unclaimed Assets,Unclaimed Kenya Railways Retirees Deposits,Unreconciled_Balance,16585030,PFM Reg 106,Asset Loss,346,Ksh 16.5 million belonging to Kenya Railways retirees has been held for over five years instead of being surrendered.
+1092,State Department for Transport,Roads Infrastructure,Project Spend,Data Centre,Transport Data Centre Delay,Audited_Expenditure,130739261,N/A,Capital Loss,346,A Ksh 130 million Transport Data Centre remains incomplete 10 years after its deadline risking equipment obsolescence.
+1094,State Department for Housing and Urban Development,Affordable Housing,Budget Performance,Target Budget,Housing Department Underfunding,Variance,32690109276,N/A,Budget Execution Risk,358,The Housing Department faced a massive Ksh 32.6 billion budget shortfall stalling critical infrastructure rollouts.
+1094,State Department for Housing and Urban Development,Affordable Housing,Pending Bills,Payables,Verified Pending Bills,Payable,1177852653,N/A,Liquidity Risk,358,The Department failed to pay Ksh 1.1 billion in verified contractor bills due to inadequate Exchequer releases.
+1094,State Department for Housing and Urban Development,Affordable Housing,Pending Bills,Payables,Unverified Pending Bills,Payable,265726672,N/A,Fraud Risk,358,Ksh 265 million in pending bills remained unverified for an extended period raising doubts about their authenticity.
+1094,State Department for Housing and Urban Development,Affordable Housing,HR,Payroll Deduction,Staff Over-committing Salaries,Count,36,Employment Act 2007,Pecuniary Embarrassment,359,36 employees were allowed to earn less than a third of their basic pay in violation of employment regulations.
+1094,State Department for Housing and Urban Development,Affordable Housing,Project Spend,Stalled Projects,ESP Markets Cluster 51 (Kasarani/Gilgil),Audited_Expenditure,147766679,N/A,Capital Loss,359,Construction of Cluster 51 markets stalled at 15 percent completion despite 100 percent of the time elapsing wasting taxpayer money.
+1094,State Department for Housing and Urban Development,Affordable Housing,Revenue Collection,Rent,AIA Rent Under-collection,Variance,140246951,N/A,Revenue Leakage,359,The Department missed its housing rent collection targets by Ksh 140 million indicating severe revenue collection inefficiencies.
+1094,State Department for Housing and Urban Development,Affordable Housing,Revenue Collection,Rent,Unrealized Government House Rent,Loss,342842979,N/A,Revenue Leakage,360,Government houses only generated 26 percent of their potential rent resulting in a massive Ksh 342 million revenue loss.
+1094,State Department for Housing and Urban Development,Affordable Housing,Asset Management,Boarded Houses,Lost Rent from Boarded Houses,Loss,176829360,N/A,Asset Deterioration,360,Over 5000 government houses were boarded up and left idle resulting in Ksh 176 million in foregone annual rent.
+1094,State Department for Housing and Urban Development,Affordable Housing,Project Spend,Affordable Housing,Affordable Housing Contracts without Titles,Audited_Expenditure,49456549086,N/A,Land Dispute Risk,360,The government awarded Ksh 49.4 billion in Affordable Housing contracts on land without ownership documents risking massive disputes.
+1094,State Department for Housing and Urban Development,Affordable Housing,Bank Balances,Dormant Accounts,Dormant Housing Fund Tax Account,Unreconciled_Balance,29166,N/A,Cash Management Risk,360,A dormant Housing Fund tax account was left unclosed despite the transition to the Affordable Housing Fund.
+1094,State Department for Housing and Urban Development,Affordable Housing,Asset Management,Project Handover,KISIP 1 Un-transferred Vehicles,Audited_Expenditure,82478360,N/A,Asset Loss,362,15 project vehicles worth Ksh 82 million from the closed KISIP 1 project were never formally handed over or transferred.
+1094,State Department for Housing and Urban Development,Affordable Housing,Project Spend,Landfill,Mitubiri Sanitary Landfill Delay,Audited_Expenditure,1056478730,N/A,Cost Overrun,363,The Ksh 1 billion Mitubiri Landfill project is 1713 days behind schedule severely compromising waste management goals.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Land Compensation,Nuno-Modogashe Land Compensation Bills,Payable,117139146,N/A,Litigation Risk,260,KeNHA holds Ksh 117 million in unpaid land compensation for the Nuno-Modogashe road risking community backlash.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Civil Works,Nuno-Modogashe Civil Works Bills,Payable,459076683,N/A,Liquidity Risk,260,KeNHA failed to pay Ksh 459 million to contractors for civil works on the Nuno-Modogashe road.
+0,Kenya National Highways Authority,Roads Infrastructure,Budget Performance,Underfunding,Nuno-Modogashe Underfunding,Variance,90995093,N/A,Execution Risk,260,The Nuno-Modogashe road project suffered a 90 percent budget shortfall effectively stalling operations.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Land Compensation,Kenol-Sagana-Marua Land Bills,Payable,2461673627,N/A,Litigation Risk,261,KeNHA owes Ksh 2.4 billion for land compensation on the Kenol-Sagana road risking severe project delays.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Civil Works,Kenol-Sagana-Marua Civil Bills,Payable,1198282335,N/A,Liquidity Risk,261,Contractors on the Kenol-Sagana road are owed Ksh 1.1 billion disrupting construction momentum.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Consultancy,Kenol-Sagana-Marua Consultancy Bills,Payable,3072084,N/A,Liquidity Risk,261,Ksh 3 million in supervision consultancy fees remains unpaid for the Kenol-Sagana road project.
+0,Kenya National Highways Authority,Roads Infrastructure,Budget Performance,Underfunding,Kenol-Sagana-Marua Underfunding,Variance,1182775170,N/A,Execution Risk,262,The Kenol-Sagana road faced a Ksh 1.1 billion funding deficit delaying critical infrastructure delivery.
+0,Kenya National Highways Authority,Roads Infrastructure,Project Spend,Utility Relocation,KPLC Powerline Relocation Failure,Loss,8773753,N/A,Wasteful Expenditure,263,KeNHA paid KPLC Ksh 8.7 million to relocate powerlines but the work was not done forcing a reduction in road width.
+0,Kenya National Highways Authority,Roads Infrastructure,Project Spend,Land Compensation,Karatina Town Compensation Opacity,Audited_Expenditure,1188670182,N/A,Fraud Risk,263,KeNHA paid Ksh 1.1 billion for land in Karatina without an approved map raising serious authenticity concerns.
+0,Kenya National Highways Authority,Roads Infrastructure,Project Spend,Consultancy Variation,Kenol-Sagana Consultancy Variation (KES),Variance,51398004,PPAD Act 2015,Compliance Risk,263,Consultancy fees were irregularly varied upwards by Ksh 51 million due to delays in acquiring land.
+0,Kenya National Highways Authority,Roads Infrastructure,Interest Penalty,Late Payment,Kenol-Sagana Late IPC Penalty,Interest_Accrued,24992420,N/A,Fiscal Leakage,263,Taxpayers lost Ksh 24.9 million in interest simply because KeNHA delayed paying an interim payment certificate.
+0,Kenya National Highways Authority,Roads Infrastructure,Project Spend,Contract Variation,Sagana-Marua Contract Sum Increase,Variance,3031883730,PPAD Act 2015,Cost Overrun,264,The Sagana-Marua road cost skyrocketed from Ksh 6.1 billion to Ksh 9.1 billion exposing massive poor planning.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Total Payables,Kibwezi-Mutomo-Kitui-Migwani Total Bills,Payable,3706110153,Reg 42(1),Liquidity Risk,265,KeNHA has accumulated Ksh 3.7 billion in pending bills for the Kibwezi-Mutomo road completely distorting future budgets.
+0,Kenya National Highways Authority,Roads Infrastructure,Project Spend,Contract Variation,Kibwezi-Mutomo Contract Upward Variation,Variance,3141024204,N/A,Unauthorized Spend,266,The Kibwezi-Mutomo road contract was varied upwards by Ksh 3.1 billion without the express authority of the National Treasury.
+0,Kenya National Highways Authority,Roads Infrastructure,Interest Penalty,Late Payment,Kibwezi-Mutomo Unpaid Interest on Delays,Interest_Accrued,543630272,N/A,Fiscal Leakage,267,An astonishing Ksh 543 million in penalty interest remains unpaid on the Kibwezi-Mutomo road due to cash flow failures.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Civil Works,Magongo Road Phase II Civil Bills,Payable,225262970,N/A,Liquidity Risk,268,KeNHA failed to pay Ksh 225 million for civil works on Magongo Road threatening contractor stability.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Land Compensation,Magongo Road Phase II Land Bills,Payable,1311597299,N/A,Litigation Risk,268,Over Ksh 1.3 billion is owed for land compensation on Magongo road creating massive legal and project stall risks.
+0,Kenya National Highways Authority,Roads Infrastructure,Project Spend,Consultancy Variation,Magongo Road Supervision Variation,Variance,97102155,PPAD Act 2015,Compliance Risk,269,Supervision costs for Magongo road doubled increasing by Ksh 97 million and violating the 25 percent legal variation threshold.
+0,Kenya National Highways Authority,Roads Infrastructure,Prior Year Adjustment,Unexplained,Kapchorwa-Suam Prior Year Adjustment (Land),Variance,1217296234,N/A,Accounting Opacity,270,KeNHA altered its books by Ksh 1.2 billion for Kapchorwa-Suam land compensation without providing any supporting ledgers.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Roads Construction,Kapchorwa-Suam Road Construction Bills,Payable,2106145939,N/A,Liquidity Risk,271,Contractors on the Kapchorwa-Suam road are owed Ksh 2.1 billion bringing construction to a near halt.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Land Compensation,Kapchorwa-Suam Land Compensation Bills,Payable,1204698605,N/A,Litigation Risk,271,KeNHA failed to settle Ksh 1.2 billion in land compensation for Kapchorwa-Suam despite the project being 97 percent complete.
+0,Kenya National Highways Authority,Roads Infrastructure,Interest Penalty,Late Payment,Kapchorwa-Suam Interest Claim,Interest_Accrued,318602456,N/A,Fiscal Leakage,272,The Kapchorwa-Suam contractor hit KeNHA with a Ksh 318 million interest claim due to persistent payment delays.
+0,Kenya National Highways Authority,Roads Infrastructure,Interest Penalty,Delay Claim,Kapchorwa-Suam Delay Claim,Interest_Accrued,186020748,N/A,Fiscal Leakage,272,Taxpayers face an extra Ksh 186 million claim because KeNHA unnecessarily delayed certifying completed works.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Civil Works,Mombasa Port Area Civil Bills,Payable,4178074939,N/A,Liquidity Risk,275,KeNHA holds a massive Ksh 4.1 billion in unpaid civil works bills for the Mombasa Port Area road.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Land Compensation,Mombasa Port Area Land Bills,Payable,3545511232,N/A,Litigation Risk,275,Ksh 3.5 billion in land compensation remains unpaid for the Mombasa Port Area road exposing the state to land disputes.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Total Payables,Marsabit-Turbi Pending Bills,Payable,62165683,N/A,Liquidity Risk,277,Ksh 62 million remains unpaid for the Marsabit-Turbi road years after the project officially ended.
+0,Kenya National Highways Authority,Roads Infrastructure,Project Spend,Undrawn Funds,Marsabit-Turbi Undrawn Balance,Unreconciled_Balance,4451726987,N/A,Capital Loss,277,Ksh 4.4 billion in donor funding for Marsabit-Turbi was left undrawn representing a colossal failure in project execution.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Total Payables,Turbi-Moyale Pending Bills,Payable,11539155,N/A,Liquidity Risk,278,Pending bills of Ksh 11.5 million on the Turbi-Moyale road remain completely unexplained and unsettled.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Total Payables,Mombasa-Mariakani Lot 1 Total Bills,Payable,2225743167,N/A,Liquidity Risk,281,KeNHA failed to pay Ksh 2.2 billion for the Mombasa-Mariakani road severely threatening project timelines.
+0,Kenya National Highways Authority,Roads Infrastructure,Interest Penalty,Late Payment,Mombasa-Mariakani Accrued Interest,Interest_Accrued,856733470,N/A,Wasteful Expenditure,283,Taxpayers bled Ksh 856 million in sheer penalty interest because KeNHA refused to pay the Mombasa-Mariakani contractor on time.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Land Compensation,Mombasa-Mariakani Land Bills,Payable,801568591,N/A,Litigation Risk,283,Ksh 801 million is owed to landowners for the Mombasa-Mariakani road halting critical demolition and clearance works.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Total Payables,EPC Footbridges and T-Mall Flyover Bills,Payable,8443320,N/A,Liquidity Risk,284,Ksh 8.4 million remains pending for Nairobi footbridges indicating poor closure of completed projects.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Consultancy,South Sudan Link Consultancy Bills,Payable,93728055,N/A,Unauthorized Spend,286,KeNHA incurred Ksh 93 million in consultancy bills for the South Sudan Link exceeding its approved budget and risking penalties.
+0,Kenya National Highways Authority,Roads Infrastructure,Project Spend,Undrawn Funds,South Sudan Link Undrawn Balance,Unreconciled_Balance,14300883568,N/A,Capital Loss,286,A shocking Ksh 14.3 billion for the South Sudan Link road remains undrawn putting the entire international corridor at risk.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Land Compensation,Nairobi-Thika Lot 1 & 2 Land Bills,Payable,458535699,N/A,Litigation Risk,289,KeNHA still owes Ksh 458 million for land on the Thika Superhighway over a decade after it was completed.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Total Payables,Arusha-Holili Road Pending Bills,Payable,21807516,N/A,Liquidity Risk,291,Ksh 21 million in unpaid bills for the Arusha-Holili road violates financing agreements and risks donor backlash.
+0,Kenya National Highways Authority,Roads Infrastructure,Project Spend,Undrawn Funds,Arusha-Holili Undrawn Balance,Unreconciled_Balance,2919766364,N/A,Capital Loss,291,Ksh 2.9 billion in donor funding for the Arusha-Holili road was left completely untouched by KeNHA.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Land Compensation,Port Reitz Airport Access Land Bills,Payable,29624000,N/A,Litigation Risk,293,Ksh 29 million for land on the Port Reitz road remains unpaid despite the project having no active budget.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Civil Works,Port Reitz Airport Access Civil Bills,Payable,792924139,N/A,Liquidity Risk,293,KeNHA failed to clear Ksh 792 million in civil works bills for Port Reitz exposing the state to massive penalty claims.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Retention,East Africa Trade Transport Retention,Payable,21012749,N/A,Liquidity Risk,294,Ksh 21 million in contractor retention money has been held since 2015 for the East Africa Trade road project.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Total Payables,East Africa Trade Transport Total Bills,Payable,51888621,N/A,Liquidity Risk,294,Ksh 51 million in pending bills remain outstanding for a project that was handed over in 2017.
+0,Kenya National Highways Authority,Roads Infrastructure,Project Spend,Land Compensation,Sirari Corridor Irregular Land Payment,Audited_Expenditure,15000000,KeNHA Safeguards Policy,Wasteful Expenditure,296,KeNHA irregularly paid Ksh 15 million to compensate encroachers who had illegally occupied a road reserve.
+0,Kenya National Highways Authority,Roads Infrastructure,Interest Penalty,Late Payment,Sirari Corridor Delay Interest,Interest_Accrued,657026738,N/A,Fiscal Leakage,297,Taxpayers lost Ksh 657 million in penalty interest because KeNHA delayed paying civil works certificates on the Sirari Corridor.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Consultancy,Sirari Corridor Consultancy Bills,Payable,107642149,N/A,Liquidity Risk,297,Ksh 107 million is owed to consultants on the Sirari Corridor some dating back to 2013.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Civil Works,Sirari Corridor Civil Works Bills,Payable,3201078059,N/A,Liquidity Risk,297,KeNHA owes contractors Ksh 3.2 billion for civil works on the Sirari Corridor severely distorting future budgets.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Land Compensation,Sirari Corridor Land Bills,Payable,518176282,N/A,Litigation Risk,297,Ksh 518 million in land compensation remains unpaid for the Sirari Corridor threatening project completion.
+0,Kenya National Highways Authority,Roads Infrastructure,Project Spend,Weighbridge,Rongo Weighbridge Delayed Installation,Audited_Expenditure,65995181,N/A,Value for Money,298,A Ksh 65 million weighbridge at Rongo remains incomplete years after its deadline defeating its purpose.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Total Payables,Northern Corridor Phase III Pending Bills,Payable,54792931,N/A,Liquidity Risk,300,Ksh 54 million remains unpaid for the Northern Corridor Phase III years after the project was finalized.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Total Payables,Kenya Transport Sector Support Total Bills,Payable,7148109740,N/A,Liquidity Risk,301,An unbelievable Ksh 7.1 billion is owed to contractors under the Transport Sector Support project completely suffocating suppliers.
+0,Kenya National Highways Authority,Roads Infrastructure,Interest Penalty,Late Payment,Kenya Transport Sector Accrued Interest,Interest_Accrued,615796001,N/A,Wasteful Expenditure,302,KeNHA's failure to pay bills on time triggered Ksh 615 million in dead-weight interest penalties under the Transport Sector project.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Total Payables,Merille-Marsabit Road Pending Bills,Payable,69056118,N/A,Liquidity Risk,303,Ksh 69 million remains unpaid for the Merille-Marsabit road without any budgetary provision to clear it.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Total Payables,Nairobi Southern Bypass Pending Bills,Payable,3623386920,N/A,Liquidity Risk,305,KeNHA is hoarding Ksh 3.6 billion in unpaid bills for the Nairobi Southern Bypass exposing the state to massive litigation risks.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Total Payables,Nairobi-Thika Lot 3 Pending Bills,Payable,342772779,N/A,Liquidity Risk,306,Ksh 342 million remains unpaid for Nairobi-Thika Lot 3 due to low exchequer ceiling releases.
+0,Kenya National Highways Authority,Roads Infrastructure,Project Spend,Contract Claim,Nairobi-Thika Lot 3 Prolongation Claim,Liability,756062674,N/A,Wasteful Expenditure,306,Taxpayers face a Ksh 756 million claim because KeNHA failed to grant the contractor site access on time.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Civil Works,National Urban Transport Civil Bills,Payable,2789191279,N/A,Liquidity Risk,308,Ksh 2.7 billion is owed for civil works under the National Urban Transport project dating back to 2019.
+0,Kenya National Highways Authority,Roads Infrastructure,Pending Bills,Land Compensation,National Urban Transport Land Bills,Payable,1795863186,N/A,Litigation Risk,308,Ksh 1.7 billion in land compensation remains unpaid under the National Urban Transport project.
+0,Kenya National Highways Authority,Roads Infrastructure,Interest Penalty,Late Payment,James Gichuru-Rironi Delay Interest,Interest_Accrued,1247395801,N/A,Wasteful Expenditure,309,A staggering Ksh 1.2 billion in pure penalty interest was accumulated due to delayed payments on the James Gichuru-Rironi road.
+0,Kenya Urban Roads Authority,Roads Infrastructure,Pending Bills,Total Payables,BRT Line 5 Pending Bills,Payable,20935795,N/A,Liquidity Risk,327,KURA holds Ksh 20 million in pending bills for the BRT Line 5 delaying mass transit infrastructure.
+0,Kenya Urban Roads Authority,Roads Infrastructure,Pending Bills,Civil Works,Nairobi Outer Ring Road Civil Bills,Payable,839433031,N/A,Liquidity Risk,329,KURA failed to clear Ksh 839 million in civil works bills for the Nairobi Outer Ring Road despite the project closing.
+0,Kenya Urban Roads Authority,Roads Infrastructure,Pending Bills,Consultancy,Nairobi Outer Ring Road Consult Bills,Payable,6765591,N/A,Liquidity Risk,329,Ksh 6.7 million is owed to consultants on the Outer Ring Road project.
+0,Kenya Rural Roads Authority,Roads Infrastructure,Prior Year Adjustment,Unexplained,Roads 2000 Central Negative Adjustment,Variance,32770568,N/A,Accounting Opacity,338,KeRRA booked a negative Ksh 32 million adjustment without any supporting journal vouchers.
+0,Kenya Rural Roads Authority,Roads Infrastructure,Interest Penalty,Arbitration,Roads 2000 Central Arbitration Interest,Interest_Accrued,3649573,N/A,Wasteful Expenditure,338,KeRRA was forced to pay Ksh 3.6 million in interest simply because it ignored an arbitral tribunal award.
+0,Kenya Rural Roads Authority,Roads Infrastructure,Pending Bills,Interest,Gilgil Machinery Road Interest Bill,Payable,38714887,N/A,Wasteful Expenditure,340,KeRRA owes Ksh 38 million purely in penalty interest for failing to pay the Gilgil Machinery road contractor on time.
+0,Kenya Rural Roads Authority,Roads Infrastructure,Project Spend,Undrawn Funds,Gilgil Machinery Counterpart Undrawn,Unreconciled_Balance,167500000,Financing Agreement,Funding Gap,341,Ksh 167 million in GoK counterpart funding remains undisbursed for the Gilgil Machinery road violating the financing agreement.
+---INSIGHTS---
+
+HEADLINE: KeNHA is suffocating the road construction sector by hoarding tens of billions of shillings in unpaid contractor bills, triggering a catastrophic wave of nugatory interest penalties—costing taxpayers Ksh 1.2 billion on the James Gichuru-Rironi road and Ksh 856 million on the Mombasa-Mariakani highway alone.
+
+COLLECTION & TARGETS:
+- The State Department for Housing and Urban Development suffered a catastrophic Ksh 32.6 billion underfunding against its budget, effectively paralyzing the rollout of critical affordable housing and urban market infrastructure.
+- The State Department for Roads experienced a massive Ksh 33 billion funding deficit, indicating a severe Exchequer cash crunch that is trickling down to paralyze KeNHA, KURA, and KeRRA projects.
+- The State Department for Housing failed to collect Ksh 342 million in potential rent from government houses, highlighting gross inefficiencies in non-tax revenue collection.
+
+RISK & LOSSES:
+- The single largest unresolved liability flagged is Ksh 7.7 billion in pending bills for the Magongo Road Phase II project, representing a massive distortion of KeNHA's future budget planning.
+- KeNHA is bleeding public funds through avoidable penalty interest on delayed payments; aside from the Rironi road, they accrued Ksh 657 million in interest on the Sirari Corridor and Ksh 543 million on the Kibwezi-Mutomo road.
+- The National Treasury authorized massive, highly irregular contract variations—inflating the Kenol-Sagana-Marua road by Ksh 5.8 billion and the Mombasa-Mariakani road by Ksh 5.3 billion—blatantly violating the 25% threshold in the Public Procurement and Asset Disposal Act.
+- KeNHA irregularly paid Ksh 15 million in compensation to illegal encroachers occupying a road reserve on the Sirari Corridor, setting a dangerous and costly precedent for public land management.
+
+ABSORPTION:
+- Project absorption rates are abysmal across the board; the South Sudan Link Road has Ksh 14.3 billion in undrawn donor funds, while the Marsabit-Turbi road has Ksh 4.4 billion lying idle due to state implementation failures.
+- KeNHA failed to draw down Ksh 2.9 billion for the Arusha-Holili Road, severely delaying the delivery of this critical regional integration corridor.
+
+WHAT THIS MEANS FOR CITIZENS:
+When the government starves road agencies of cash, contractors abandon sites, leaving citizens stranded with half-finished highways, paralyzing traffic, and destroying local businesses. Even worse, because the state breaches its contracts by paying late, billions of taxpayer shillings that should be building new schools and hospitals are instead handed over to construction companies as "penalty interest" for doing absolutely nothing. On the housing front, the government is forcefully deducting the Housing Levy from workers' payslips, yet it failed to provide basic land ownership documents for Ksh 49 billion worth of housing contracts—meaning citizens are funding housing projects built on legally contested ground.
