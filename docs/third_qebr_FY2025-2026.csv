@@ -1,0 +1,14 @@
+Vote_Code,Entity_Name,Levy_Type,Dimension,Transaction_Category,Project_or_Specific_Issue,Metric,Value_Ksh,Legal_Compliance,Risk_Factor,Page_Ref
+1094,State Dept for Housing & Urban Development,Affordable Housing (Sector),Budget Performance,Recurrent Expenditure,Total Recurrent Spend (Actual),Actual_Spend,1463000000,PFM Act 2012,Under-absorption,27
+1094,State Dept for Housing & Urban Development,Affordable Housing (Sector),Budget Performance,Recurrent Expenditure,Total Recurrent Spend (Target),Target_Budget,3409000000,PFM Act 2012,N/A,27
+1094,State Dept for Housing & Urban Development,Affordable Housing (Sector),Budget Performance,Development Expenditure,Total Development Spend (Actual),Actual_Spend,73476000000,PFM Act 2012,Under-absorption,27
+1094,State Dept for Housing & Urban Development,Affordable Housing (Sector),Budget Performance,Development Expenditure,Total Development Spend (Target),Target_Budget,79034000000,PFM Act 2012,N/A,27
+1094,State Dept for Housing & Urban Development,Affordable Housing (Sector),Macro Allocation,National Development Outlay,Share of Total National Development Expenditure,Percentage,13.9,PFM Act 2012,N/A,26
+1091,State Dept for Roads,Fuel Levy (RMLF Sector),Budget Performance,Recurrent Expenditure,Total Recurrent Spend (Actual),Actual_Spend,57367000000,PFM Act 2012,Under-absorption,27
+1091,State Dept for Roads,Fuel Levy (RMLF Sector),Budget Performance,Recurrent Expenditure,Total Recurrent Spend (Target),Target_Budget,71926000000,PFM Act 2012,N/A,27
+1091,State Dept for Roads,Fuel Levy (RMLF Sector),Budget Performance,Development Expenditure,Total Development Spend (Actual),Actual_Spend,104383000000,PFM Act 2012,Under-absorption,27
+1091,State Dept for Roads,Fuel Levy (RMLF Sector),Budget Performance,Development Expenditure,Total Development Spend (Target),Target_Budget,124671000000,PFM Act 2012,N/A,27
+1091,State Dept for Roads,Fuel Levy (RMLF Sector),Macro Allocation,National Development Outlay,Share of Total National Development Expenditure,Percentage,19.8,PFM Act 2012,N/A,26
+1071,The National Treasury,Fuel Levy (RMLF Bundled),Revenue Collection,Appropriation in Aid (A-I-A),A-I-A Actuals (Explicitly includes RMLF),Actual_Collected,503377000000,PFM Act 2012,N/A,23
+1071,The National Treasury,Fuel Levy (RMLF Bundled),Revenue Collection,Appropriation in Aid (A-I-A),A-I-A Target (Explicitly includes RMLF),Target_Revenue,489371000000,PFM Act 2012,N/A,23
+1071,The National Treasury,Fuel Levy (RML & PDL Bundled),Revenue Collection,Tax Revenue,Excises Actuals (Explicitly includes Ordinary Excise RML & PDL),Actual_Collected,407270000000,PFM Act 2012,N/A,42
